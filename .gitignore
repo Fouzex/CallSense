@@ -1,0 +1,23 @@
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Datasets
+data/raw/*
+data/processed/*
+
+# Model artifacts
+artifacts/*
+
+# System files
+.DS_Store
+*.log
