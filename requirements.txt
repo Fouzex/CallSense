@@ -1,5 +1,30 @@
+# Development
 ipykernel
 jupyter
+
+# Data processing
 pandas
 numpy
 matplotlib
+
+# Application
+streamlit
+
+# Machine learning
+scikit-learn
+torch
+transformers
+sentencepiece
+sentence-transformers
+accelerate
+safetensors
+
+# Audio processing
+openai-whisper
+pyannote.audio
+soundfile
+librosa
+torchaudio
+
+# Arabic TTS
+# Uses transformers and soundfile above
