@@ -1,0 +1,13 @@
+﻿Model,Source,Samples,WER (%),Substitutions,Deletions,Insertions
+tiny,CommonVoice,50,91.63,135,38,13
+tiny,MGB2,100,70.75,696,131,68
+tiny,Team,49,90.14,2757,1192,30
+tiny,ALL,199,86.03,3588,1361,111
+base,CommonVoice,50,85.71,136,16,22
+base,MGB2,100,53.36,557,83,35
+base,Team,49,80.27,2792,627,124
+base,ALL,199,74.67,3485,726,181
+small,CommonVoice,50,55.17,91,12,9
+small,MGB2,100,34.39,326,73,36
+small,Team,49,65.93,2218,516,176
+small,ALL,199,58.77,2635,601,221

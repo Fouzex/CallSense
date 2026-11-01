@@ -1,0 +1,730 @@
+﻿row_key,source,audio_path,reference,hypothesis,wer
+621aa24dcecb57ba80ce27166a542d33ede31835f44b6fcdcd063ad0169e771d,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19384214.mp3,كيف لي أن أساعدك ؟,كيف يفعلين سعادك,0.75
+879eda31db79285eaf3fee709055ba8b04e2d9bbc55c1f8b9e17965402330829,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19376509.mp3,.يحب توم الجبنة,يحب طعم الجبنة,0.3333333333333333
+7fd6949d4b4f703dbe168e2e1d1c1a0c261f63733f1ff92dd253bc3c26b34796,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19384203.mp3,.إصطحب أخته,Luisiki,1.0
+a6f2d3d6c3e9b0077095e0beac502e88f7a947cddc44cf07571ff3c3b16d0bee,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19384207.mp3,أحضر لي كرسياً من فضلك.,أهدر لكورسي أمه فضلك,0.8
+14fc5796521fbd00ec7c21024e4bde6cc4ecf9892944e1f3a18cdf39d193e1b7,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19423035.mp3,الزجاجة ملئى بالماء.,أ raises من و will never.,2.0
+db63de2a3dfb706689df0c7f8207d9127f98f2ea7660f35abd4916e5318255ef,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19384247.mp3,تركتُ كتابك في السيارة.,تلوف rendez-لك,1.0
+701d5bbbc60729ec361cdb5b70936b38f2e213a521bdc46d1ae2a0ed7ffde71b,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19384170.mp3,من في البيت ؟,أكثر Flower,1.0
+599bdb5d8682b8dd33db299de9c9d12aaae55976bf29f4d0460400fe998aeaa8,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19384291.mp3,الأسود لي.,ähltلا سأخضر,1.0
+3ae0c28a08d751c8ed03bce038f6d9cce2ebc4560bf11455c2a282d724264bf9,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19384297.mp3,.سُرقت للتو,شركة بلطة,1.0
+daaf0d25eeab9319fee75a31fbc263874eea03096ce43ae91156bd33a748e83b,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19382814.mp3,ما وراء أوراق الشجر,معرا العراق الشي freezer,1.0
+522503aa0442c28204f57d22c3b3080642c3c86911411a23b0e77aa7640cf413,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19382631.mp3,المكيّف لا يعمل.,عن Lux<|be|> бер علي لك,2.0
+e547b952b16d0baa2ce8ab82375e3dda09ff43f9b5ff33a99781b3d6e3a22ae5,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19378023.mp3,إقتربت القطة ببطأ من الفأر.,اكتار بطال قطار بط من الفر,1.0
+067661e57dc9280f8831e591fd77c631851ae5cdc119526a2f6553651557e3ae,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19384401.mp3,حاولنا إقناعه بالعدول عن رأيه لكننا فشلنا.,الشهوم الخإل صحم ولهذه جدا,1.0
+c50b97e4ac0cbfb6bafeb375a75f415ced69ec7f263c72dabbd2d9ded4675035,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19384402.mp3,كان أنتوني في الصف السابع,تجرز بالسد System,1.0
+032a204e6a7eaa06c7f455f78f5a99310910807168903e4ec7af641919cf00c1,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19384427.mp3,شكراً لقدومك لزيارتنا.,شكراً لكوضو مجنزياراتين,0.6666666666666666
+5cbd7faca8e53a10b47cc830ad6d1cd422c46cb632a76a7f8a6ea498e7c43853,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19384445.mp3,قال فيليب: تعال و انظر بنفسك.,بين العمار مع الف comfort,1.0
+f93760d5a9b35a8767dfd16ea4a50fefff5509598fc8fb62be88f003842c543d,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19377977.mp3,وجد دراجتي الضائعة.,واجد هذا رجل دائما,1.3333333333333333
+046fb19c93c5db2e6189de19de02c28851476143db552e6ccadba4ae8240c21c,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19404583.mp3,تعبر الكلمات عن الأفكار.,توظر ويfficرمت عن نفكر,0.75
+63f0732e52200ab51877883915ffc4cd269df997ca6343e0364cee2876b4b97c,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19423074.mp3,لست مشغولاً.,نستمع جولا,1.0
+3f4168c6e4381d92cac98a3a3a6f9d87fe4cb7941728c7ebe5b83e36cae19a63,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19423069.mp3,أي مكان في العالم هو أجمل الأماكن ؟,أي مكان في العالم هو أجمع المكان,0.2857142857142857
+1811aa924b13d19b7dd63991fa11d524448f07367ad5d436811e770801487bf6,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19423064.mp3,أين تذهب للعمل ؟,اين تصحب العمل؟,0.6666666666666666
+32f90f7efca3525afa82f858fec2dae431370c441ef1b4fb2777045934834c8d,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19421813.mp3,أين يسكن جون ؟,لا تقطع,1.0
+c9003d39483e43f9b37adc7596e6a37a7d5db717c4ccbc7bf5a5e39954ac2aee,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19421751.mp3,القلم مكسور.,مشست و tough,1.5
+7530fa1b658d237fd28ee9956573ddaff615673551143463455571504a206dc9,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19421724.mp3,.اِغسل رجليك,هذهrollخ لتطBye,1.0
+5a53e1a8b1dc9e3e9605f42d28ef9e6839c939d8c0537c855193377607222b91,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19384187.mp3,هل أنت ماهر في لعب التنس ؟,هل أنتم أهفو لعض التنس؟,0.6666666666666666
+3adac3412ed49141f3f46214684a1f95259bc764ed249fa0ebdf1e4731fdefc0,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19410508.mp3,.كان هناك حصن على تلك الهضبة في يوم من الأيام,كان هناك حصن على التلك الهضب في يوم العيام,0.4
+cd4efe3cdd9d1d57f6a1ef34b0e47cd69c3d87c2fd89d07cd138dc2f2c0ee5de,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19410507.mp3,ذاك قاموسي.,زاقة كاموسي,1.0
+3fb84a6bb864ecbd74b68b7805c373bd29ba973eea105668c6e98cea93def56b,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19404432.mp3,اتهمته الشرطة بالقتل.,تحمده الشرطة والكتل,0.6666666666666666
+1d1b58604abc7d5dc7f07390f43b0754a921fe35d399f5963cae8695da3dfe1e,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19404449.mp3,كان عليك أن ترفض عرضه.,كان عليك أن ترفض أرضة,0.2
+8c4ceceac5feb51b3340c0af3b8510cb69bb7525f7297588edd0d8f745b426d3,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19410499.mp3,متى أنشئت هذه الجامعة ؟,ما ا�оت من فأ the,1.5
+d7f13efd7016e19c5264c701289ed5df433a7beb6ad74e7d480fb68395128185,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19410490.mp3,أي ساعة تنام ؟,لا ي alle تصنر do the bros,2.3333333333333335
+5127dc11b3308734de2d507c3b576f9db0e0b0acf3636268d59d298f1b3e6ce5,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19410488.mp3,.أستخدم الحاسوب,�데 عحتك تف Sur,2.0
+d532f3b31112d4bdd675b5842eee02415650ff3a96aa11ccdf44e1117f45d73d,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19410486.mp3,لم أحب مادة الأحياء أبداً.,لم أحب مرسل أحياء أبدا,0.4
+ada97a6e3f80268634cefcf3b06524fc4ac9ae8de6324279db10be169a89221e,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19404519.mp3,بدا لي أن الناس تفنى نفوسهم وأموالهم ولا أرى الدهر فانيا,بدل لي أن الناس تفن نفس نفسهم عمالهم ولا أرد التهرفانيا,0.7272727272727273
+b1cbb0163b7800f5524c4802059ec3aa6af383c4149f50843a24734bb51e2a5b,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19404637.mp3,.تتكلم و كأنك رئيس عملنا,تتقل لمكانك رئيس حمالنا,0.8
+206cf4f3c5be894d59d818545ef96f2163897319ddcf46fc757cc4ffe110dd99,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19404616.mp3,تعجبني سيارتك.,توجي πολύ صير واتением,2.0
+a9513aab0243eb8a9eb049cf4cdb747c23f5e26f9afe344ee665247fd1ab4b8f,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19424973.mp3,كل أصدقائي يحبون لعب كرة القدم.,كله استقائي حدبون العب كرة القدام,0.8333333333333334
+b4fcd895c7749e50c844378ac6f4cc24d70cd8461391110f57f3dbc9854f3233,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19424930.mp3,كيف تجرؤ أن تقول ذلك ؟,كيف تجرو أن تقول ذلك,0.2
+ba8879e115c6db23d224c5c2135093f8cc67769a5675d7c262ade5a011bcdfbf,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19424862.mp3,نحن ذاهبون إلى السينما.,نحن ذهبون إلى سينما,0.5
+4e0a05aa19d2695fb6a7daa046b7fd5dd04d542e0493785258d51a24c5f30030,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19424871.mp3,.أعد الكتاب في أقرب فرصة ممكنة,آا Confetti بي�� البحثة من renovation,1.0
+e138b1f36ca0e0560b2a67c55e4bbf6c90556e99b125385386ff8e7e805df3e7,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19424879.mp3,هل تقبلين الزواج مني ؟,حلتك بلينا سوى جميل,1.0
+33f5c92dee527fa91c853bcd2a0dfdf5eaa391aa21113143c68714672ea4ef24,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19424919.mp3,المستمعين انبهروا بكلامه.,المستمعين بحروب كلام,0.6666666666666666
+5139bbaa125e196ab23ee7d9b60c392eafcd13ea940fa63005c8d1aefed2ff78,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19424922.mp3,تظاهر بأنه محامٍ.,تضح ربي ان يهوم حامن,1.6666666666666667
+3d295cf85211be64e931a60ca71f13060d9b37bb9a562106dbb8fd6f788a1b1a,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19424925.mp3,لا تنس التذكرة.,لاتنسة فقروا,1.0
+73ba8e936b7075f6cedf66616a71f6beb6f54b98700e0ed5c4d5d7a6d893100d,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19424927.mp3,يقول الأميركيون البنزين والبريطانيون يقولون البنزين,يقلر امريكيون البنزين والبرطانيونة يقلون البنزين,0.6666666666666666
+67817908a3e94a8bfef4e6155740da280d6f2ead10adb5c1cd41e5e8a573ab0f,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19424928.mp3,أخبرني ما حدث.,أخبرني ما حدث,0.0
+aebffea45f5478e6616f48d9dad428e6be04a53024d45c9930cd62e91198d4ec,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19424939.mp3,.خرج الوضع عن سيطرتي,خالج الوطع عن سيطرة,0.75
+1de18f3a6ae2b465ef85b1a061b3441493f6f73211afb5a3d020f69b145cf40c,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19424941.mp3,نعم ذهبت البارحة.,أهم سابط البرح,1.0
+d162e3ce39befb1cc0c187788b7f6e2ccb77d3571e9d28b2556cb7ba3d1e439d,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19424943.mp3,.أهم شيء أن تكن صبوراً,أهم شئين أن تكون صبورا,0.4
+e2657a76d826c19300c3ae0216b0c97dad1bbc51476f876b0889d958a3c48b3e,CommonVoice,C:\Users\user\Desktop\CommonVoice_Arabic_v27\commonvoice_sample_50\audio\common_voice_ar_19424946.mp3,أزاحت غطاء الصندوق.,أزاحة ريطة السندوق,1.0
+f0239bc6f2432d9c1b45ae4b387c82ff444d3cd5aa93661de14358dbffd1c9e8,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00001.wav,على انه لأن الأحد كان يوم خمسة يوليو ألف تسعمائة اتنين وتسعين والرئيس مات,على أنه لأن الحد كان يوم حمس يوله ألف وتسعبيا وثنى وثنى وثنى وراء اسمت,0.6428571428571429
+ee252ae70dcf8ca02299bda727abff4a25c2a609e45a951f2536591e7e4772f9,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00002.wav,في في تسعة وعشرين يونيو ألف وتسعماية اتنين وتسعين فجمعوا هذا البرلمان المعين,في اي في جواة تسعى 20 يونيو ألف السميوزين و تسين فجمعه هذا البرامان المعيان,0.7692307692307693
+763284b0fffd95e8b16bb6b85fe8c1e64dd9e804eddd8fe3218dc720c6679661,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00003.wav,على عجل وبعض بمن حضر صادقوا على لائحة وقالوا لا يمكن,على عجل وبعض بمن حضر صدق على لا إحى وقال لي يمكن,0.45454545454545453
+4ef439425337405c0d9d679b352c2dfe27d2b98e1a253800906a5c3edda1ee21,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00004.wav,التعريب بعد شهرين لأنه في الحقيقة لم يعمل شيء وما كانوا يستطيعوا وأن التعريب ينبغي أن يؤجل,التعريب بعد شهرين لأنه في الحقيقة لم يعمل شيء وما كانوا يستطيعون التعريب ينبغي أن يؤجل,0.11764705882352941
+bdb2178b993cd661e0932b9ad02c8e87d6957cae1439f2d67a506d8299939bc4,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00005.wav,وجاء الرئيس علي كافي ووجد أمامه نص قانوني يوش يقترح عليه,وجرّي سعلي كفي ووجد أمامه نصقنوني يختره عليها,0.8181818181818182
+f9dbe3e7f6650fd7aca6a9218855d591f6d80842b1c733d5f4b6cc82ff402f2f,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00006.wav,أنه لا يتخذ أي قرار إلى أن نتفق إلا,أنه لا يتخذ أي قرار إلا أن التفق إلا,0.2222222222222222
+aafb7f398c6af414fcf09be9f12d0fe7912857365f156ab020bf142f8a397975,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00007.wav,بالاتفاق حدثت كامب ديفد,بالكفاق حدثت كامديفت,0.75
+cd7078c8bc77e1c8c96ea94ec1ef46cd0ed574d4f4782a4988c0a0719e20eb16,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00008.wav,ولما حدثت كامب ديفد سبعة وسبعين أيوه,ولمحرست كامدينت سبع سبين أيوة,1.0
+7b051e0fa330b77bd253a7f951ab985fc62d60ce6758b0c624f033a5fb03f3b2,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00009.wav,لما حدثت كامب ديفد يعني كامب ديفد ولا مرواح السادات إلى القدس سبعة وسبعين لا لا كامب ديفد,محادثة كامدابي كامدابي دولة مروحة سنة إلى القدل ألقاء كامدابي,0.9444444444444444
+b9f9293e9c526a2b0eb6369c32d438104758f8466b0df1aaa45ebf40659225f3,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00010.wav,كامب ديفد تسعة وسبعين أيوه لا أنا لسه قبل تسعة وسبعين لا ما أنا جاييك عشان أوريك أنا دخلت متى أنت ما سألت,كم دي فيتصع سبعين؟ اي لعنة ليس سبعين سبعين لما أنا جايك شنوريك أنا دخلت ميتة انت مسللتيني دخلتة,0.8260869565217391
+ad8d682ec0ca0078ebc9ea1f49eadbfaec8268972adc27b2361fe519de5254e5,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00011.wav,وما هو موجود الآن طريق المفاوضات وصل إلى طريق مسدود طريق المقاومة كما نعرفه تحول إلى حالة دفاع عن النفس,المهوة ما وجود الآن أنه طريق المفاوضات رسائلة تريق مصدود طريق المقاوة ما كما نحرف وتحوال الى حال الدفاع للنفس,0.8
+8705b25a853690743e2b73079cb38c7666b75b90373b26131363604df7ef63f6,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00012.wav,لنكون واضحين في هذا لم يعد استراتيجية تحرير أصبح حالة دفاع عن النفس لردع إسرائيل من الاعتداء على الشعب الفلسطيني تحديدا في غزة,لأن يكونوا ضحين في هذا لم يعد استراتيجية التحرير أصبحت حالة الدفاع النفس لردع إسرائيل منك آتداة الشعب الفلسطيني تحديدا في غزة,0.43478260869565216
+a2a251239b0b3e4b511f34d241b027670f4a0c298c5ef75cd2852ee4921291b1,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00013.wav,اللي جزء عزيز من الشعب الفلسطيني معرض لحصار تعرف وعلمت إسرائيل دروس وكانت,الذي يجزء عزيز من الشعب في رسين معرض لحصار كارف وعلمة إسرائيل دروس وكانت,0.46153846153846156
+09e8d33e48d1a82f6d6157d8a65323aee10fb1af6f816c324c4f4b808cc9cc68,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00014.wav,ملحمتها الأخيرة الحقيقة لقنت إسرائيل درس يعني أنا أعتقد كان لم ينصف لكن,من الحمدها الأخير الحقيقة لقنا في السعيد رس يعني أنا أعتقد كان لم ينصف نحو لكن,0.6153846153846154
+048880e7e96355d1eb2ec1fe332ff7eaccd0f2ab897f0f6c0b6d72815f5c4ffc,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00015.wav,هذا لا يغير من حقيقة أنه استراتيجية دفاعية إذن,هذا لا يوغير من حقيقة أنه استطاع تجيئ دفعية,0.4444444444444444
+a1ab65c55eaf5cce249dda34c992e8267c473cc3840bf31c3998803819bc9f17,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00016.wav,مدنيين لهم قدرة على فهم الاقتصاد خبراء في هذا الجانب بينظروا للواقع اللى هم عايشين فيه,مدنين لهم قدر على فهم الاختصاد خبراء في هذا الجاند بينظر للوقع لهم عشين فيه,0.5625
+9ba854b1dbf0e28435195511492f7e05fcc8282227e47fe6f51710b382f53594,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00017.wav,ليست الأوامر العسكرية تسير اقتصاد ولذلك إحنا بننتقل من أزمة إلى أزمة النهار أنت عندك إشكالية في مصر,ليس تلعامل العسكرية تسير اختصاد ولذلك حنا بنانتفل من أزمة الأزمة النهارد أنت عندك شكالية فاصل,0.6111111111111112
+6b651aa7cb0cdcaefc462c90ded1683dca2dd45efefab254ff7594b3df05be50,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00018.wav,القطاع الخاص النهارده بيحتضر والشركات النهاردا بدأت تترك مصر ليه,القتعة الخاص النهاردة بيحتاضر والشركات النهاردة بدأ التطرق مصلي,0.8
+384f523aa9017efc905a5674fe50ebba8ca2d7ba1b468e5565e55cf66239c8e9,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00019.wav,لأن في عسكرة حتى موجودة للاقتصاد النهارده الجيش النهارده هو من أربعين لستين في المية في أقل التقديرات يستولي فيها على اقتصاد مصر,لأن فيها عسكرة حتى موجودة للخصاب إنها رضة إجيج بنهارضة هو من ربعي لست تكيف الميف أقل التخدرات بستولي فعلاك تسب مص,0.7391304347826086
+b6c07096457407beb7be0d1451d71edcbafa0699324862eb38f74f1c1a71f175,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00020.wav,مين اللى هيقدر ينافس الجيش مين اللى هيقدر ينافسه عنده العمالة ببلاش عنده موضوع التمويل بيأخذه بطريقة ميسرة جدا,من الحياة داري نافسي جيش من الحياة داري نافسو عمد العملة بلاش عمد موضوع اللي التمويل بيغض بطريقة ميصرة جدا,0.8421052631578947
+58fb1be53cde9073df2fbccb47f355ad97cbb70cad666a818ea3b995b2d0510c,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00021.wav,لا أحد يتكلم إلا الزعيم أنت في طريقك إلى كوريا الشمالية,لا أحد تكلم إلا الزعيم أنه في طريق إلى كوريا الشملية,0.36363636363636365
+b150f8010de0b0f9cd117d1dd5767f59c82d9fba3a09f18237fd7ac278bbf3c0,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00022.wav,التي اعتقد الناس فيها من إعلامهم أنها فازت ببطولة العالم وأن الحكم الحاكم,التي افقد النسى فيها من علامهم النهافازت ببطولة العالم وأن الحاكم,0.46153846153846156
+d2fba823595fa07d5847fdaa7c99d54137a12c64abe98a7b8867d30bd5c37e16,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00023.wav,وما يقود إليه البلاد فريق العسكر الآن دكتور نبيل ميخائيل في ظل حديث,وما يخود ليه البلاد فريق العسكر الآن دكتور مبين مخيال في ظل حديث,0.3076923076923077
+54c631e0961e4a6db951eb3eb6e9fd037d226219c273791fffb202af92022738,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00024.wav,البعض عن أن هناك خلاف حول السياسية الاقتصادية بين رجال أعمال والرئاسة,ألف عط أن هناك خلاف حول السياس الاختصادية بين رجال عمال والرئاسة,0.4166666666666667
+4e0562f83b9e17c7692f4a004f5d5b40c05283d51d7b0c060e7c23a0d40c6497,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00025.wav,كيف تتصور تتصور أنت طبيعة العلاقة بينهما في المرحلة المقبلة,كيف تتتصوير أن تطبيعات العلاق بينهم في المرحة المقبلة؟,0.7
+2a3f3fe1aece385257e2b7c951859d5c7a76c70aaa31493bb07760a7bdff86bd,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00026.wav,كانت اللغة العربية نادرة وقليلة لأن أول ما بدأ به الاستعمار عندما دخل قضى,كانت لغة العربية نادرة وقليلة لأن أول مبدأ به الاستعمار عندما دهلة قلأ,0.35714285714285715
+64f3337d2213f552562541a7221756648d2f4f30b220a24ef3f5f485520e2637,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00027.wav,على المدارس التي كانت كلها إما ملحقة بالمساجد وإما حلقات علم في المساجد وإما زوايا,على المدارس التي كانت كلها إما ملحقة بالمساجد وإما حلقات علم في المساجد وإما زوية,0.06666666666666667
+4ad87013f342666dc4c0569b3d5c35fde1359ffedbbcb1987e74ea20c1bfe4a9,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00028.wav,منتشرة في القرى وفي المدن النائية ويأتيها الطلبة في نظام داخلي يبيتون ويأكلون ثم ويدرسون,من تشرة في القراء وفي المدن النائية ويأتي حق طلبته في نظام داخلي يبيتونه ويأكلون نثمه ويدرسونه,0.6
+55c6c7e3619229181d4abc228f678deb1a544b41a4862d138d02490c87c88892,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00029.wav,فلما جاءت فرنسا قضت على المساجد عشرات ومئات المساجد دمرتها حتى إن بعض المساجد,فلم جاء فرنسا قضت على المساجد عشرات ومئات المساجد ضمرتها حتى إن بعض المساجد,0.21428571428571427
+7177d4928298389972d5763a08a924a93ef3a774f91b63d15166d8edb364b633,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00030.wav,اتخذت مرابط لخيول الاستعمار لخيول الجيش الاستعماري وأهم شيء قضى على التعليم أيضا هو الأوقاف,التخيلة مرابط لخويل الإجسابان وأهم شيء قضع للتعليم هو الأوقاف,0.6666666666666666
+5e4b72dd6dd66f4f9fefe6cf602c5cdd9ed7eb82de9e785bc6fa6e60f1b371ed,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00031.wav,وأتباع وأحزاب ومنظمات أيهما يشكل,وأتبع و أحزاب ومنظمات أيهم يشكل,0.8
+a30fbe6e75debfe35d7458fc6e2efaabf77a079cd33e099cbcb13edf169ba085,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00032.wav,خطرا أكبر أيهما يشكل أسلوبا يثير الخوف بشكل أكبر,خطرًا أكبر أيوم يشكع الأسلوبا نوثير الخوف بشكل أكبر,0.4444444444444444
+7d39216797d0d718c72949cff96a2ac01b011635ca6f35100e0205ec70fce13f,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00033.wav,أنا أعتقد بأنه الأسلوب غير المباشر بالتأكيد يثير مخاوف أكبر لأن,أنا أتقد بأنه السلو غير الموواشر بالتاكيد يوثير مخاوف أكبر لأن,0.36363636363636365
+89e980d955de2ae52cc4e330c19a546f5c83a88b2a106b37b4cd3985f0a97fb3,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00034.wav,قدرة الدول على مواجهة هذا الأسلوب غير المباشر تصبح أصعب من مواجهة الخطر المباشر,قدرة الدول على مواجهة هذا الاسلوب غير المباشر تصبح أصعب من مواجهة الخطرة المباشر,0.07142857142857142
+6eb7da63424be00a69f566acc91e3eb002e8b3960fa6298cce73f674f7cbdc98,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00035.wav,الخطر المباشر واضح جيش نظامي ممكن تواجهه مثل ما حصل في سيناريو العراق والكويت,الخطر المباشر واضح جيش نبعامي ممكن تواجه مثل ما حصل في سيناري والعلاق ويقويت,0.35714285714285715
+e22f755b0bf9f0e5c62c8d879afc66c8faef95d0afd481505d1b50a4aa6ba529,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00036.wav,وهنا يكمن مأزق الكاميرون بشأن زيت النخيل,وهناية منومة زيقل كاميرون بشأني زيط ناخيل,1.0
+45a9f22ede62a38e1c542b900ef72331ec4ee9e08c370e66a0972929b0d281a4,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00037.wav,فإن سارت الأمور على ما يرام يأتي مع الاستثمار الأجنبي الضرائب على الطرق وعلى الصحة والتعليم,فإنسارة الأمور على ميرامه اتقم على سثمار الأجنبي أضراء بوعل الطرق وعلى صحة وتعليم,0.6875
+ccafbdab41f84a0310868d005385d9856795546b51407437d806ba1dc42f7a76,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00038.wav,وإن لم تسر الأمور على ما يرام فالمشكلة لن تكون فقط في الكلفة البيئية,وإن نمتصر الأمور على مايوران فالمشكلات لن تكون فقط في الكلفة البيئية,0.35714285714285715
+f8280d841bfb24be2472ce5eb30a77168c8dc5ae7b63de41c467e314a378ce30,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00039.wav,وهذا كما يقول منتقدو الاستثمار الأجنبي يشبه تجريد بلد من أصوله ليصب المال في خزائن الشركات متعددة الجنسيات,وهذا كما يقول من تقدل السثمار الأجنبي يجبه تجريد بلدم من أصول جي ليصب الملو في خزائل الشركات متعددت الجنسيات,0.5555555555555556
+c3d5b0b787c652631b9f49df8fe86f35dc4a547a5164d2cefb9923ae952f233e,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00040.wav,أحد أول المقترحات لإقامة المزارع عوضا عن الغابات جاء قبل أربع سنوات,أحد أول المخترحات لإقامة المزارع وضع عن الغبات جاء قبل أربع سنوات,0.25
+41772d44871da383e520d2d6a6d620f29519786f66211cc024f001759aee6b36,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00041.wav,مسلمين ضد يهود بل عر بل عرب ضد إسرائيليين المسألة مسألة حق وعدالة,مستميذ ضدية هود بالعراء برعاء بضد سرائلين المسألة مسألة وعدالة,0.7692307692307693
+a8c3178ecb81a928a8ad25cbf21655296207cca2e06980e30a8de4b8a0a108fc,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00042.wav,لماذا للإسرائيليين الحق أن تكون لهم,لماذا للإصرائلي الحق أن تكون لهم؟,0.16666666666666666
+4bbd0018746ad1d37146b390396adb8bd41b34775a5da8737268831855d5735f,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00043.wav,حق الوجود السياسي والرخاء الاقتصادي وحرق وحق الحركة وذلك يحرم منه الفلسطينيون,حقا الوجود السياسي ورخا لقتصادي وحركة وحركة وذلك يحرم منهم في الاستيديون,0.75
+3ecf53c3dc60cbb66ccbae216085cfb63b846bdeff227e3535e4cd7a95859663,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00044.wav,لا يهم إن كنت يهوديا مسلما مسيحيا ليبراليا أو علمانيا,لا يهم ان كنت يهودين مستمر المسيحيين لبراليين أو علمانيين,0.5
+8ad962fe24907d692811d0c1b5c43f9ddda7a11ff9b5c7418faa2fd39a7d10f9,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00045.wav,هناك الكثير من الناس يؤيدون حق الشعب الفلسطيني ودائما أثرنا هذه القضية مع الإسرائيليين,هناك الكثير من الناس ويذون حق الشعر الفلسطين ودائما أثرض هذا القضية مع الصبائلين,0.42857142857142855
+9473012bff0a4bbf82cb470e2346e6f4f202c4d3ee9d0d1d7b52a386c535cb24,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00046.wav,وأنا في وزارة التربية المرحلة الأولى في السبعينات مع صديقي المتوفى سي عبد الكريم بن محمود أنا رئيس ديوانه,وأنا في وزر تربيا المرحل الأولى في السمع نث مع صديقي المتوفسي عبثرين بالمحمود أنا رأيز ديوانه,0.631578947368421
+3580729b09ac1180e438d076c11dbf9d01202307f8b7483382e49bc024cb1477,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00047.wav,وسئل ماذا فعلتم في الفتنة كما نحن نبحث عن التعليم قال نحن سهل,وسؤيل ماذا فعلتهم في الفتنة ما كما نحن نبحث عن التعليب قلتحنا نحن نسهل,0.46153846153846156
+bc4340ca8e302c3b67ba1ed3bc46cbc74b1b4c27101c1e3b87fafcb56349f1e0,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00048.wav,وأنا كنت وزيرا ألف وتسعمائة وثمانية وأربعين وزير تربية قال عندما استقلت الجزء الشمالي من فيتنام,وانا كنت وزيرا في ألف سمنميا 1848 وزير طربيا قال عندما استقلت الجزء الشمال من فيطنام,0.4375
+05675490fa0780c7845ecb5b0700927434f0420414b4e055611964c4e8448aab,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00049.wav,أول قرار أخذته ممنوع التدريس بالفرنسية,أول قرار أخفتوا من منو التدريس ملفارمسي,0.6666666666666666
+d27909efe83ffd17380e84667719d8b800dd47484d950b5f99a86c823a9b6287,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00050.wav,فالعملية السياسية تنبغي قرار سياسي مع الأسف لا لا في المشرق العربي,في العمانية السياسية وتنبغي قرار السياسي ماعلى أسف لا في المشركة العربية,0.75
+2fac99af3a5c1f5aa53c824184e57bfe79e523ecbf77d67ca2edc6eba91275cc,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00051.wav,فإن كفاحنا ضد داعش قوي ومستمر نحن لا نقدم دعمنا لأي منظمة إرهابية,فإن كفاح نظض داعش قويل ومستمر نحن لا نقدم دعمنا لأي مرضظمة إرحابية,0.38461538461538464
+e3ee952a92eb39eef442dc3ea434d6cc4354656a31aa0a8ca5ecb6ad771625f4,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00052.wav,ونحن ننظر إلى داعش على أنه مخجل وعار على الإسلام,ونحن نمفر إلى داعش على أنه مخجل نوعار على الإسلام,0.2
+f3cb159332bebc4bb6e1042aac1f64692f96321d803c2537ff25f8cb0c9b858b,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00053.wav,الإسلام دين السلام لكن داعش لا علاقة لها بالسلام وغيره,الإسلام وديل السلام لكن داعش لا على قتلها بالسلام وغيري,0.4
+866c6e721bee2581b5fcf4c97610b2f99cc13dd9a98abdc0d3dc259cadd4bca5,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00054.wav,إنها تحاول أن تفرض على الناس دينا اختلقته هذا غير مقبول,إنها تحول أن تفرض على الناس دين أختلقته هذا غير مقبول,0.18181818181818182
+0bc30e9217903f3d27811128765fcdb6d84289afc98d24cfa992b61990ec9a82,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00055.wav,أطراف داخلية في تركيا تحديدا السيد صلاح الدين دميرتاش زعيم حزب الشعوب الديمقراطي,أبتراف داخلية في تركية تحديداً السيط صلاح الدين دمرتاش زائم حزب شعوب الديموكرةي,0.5384615384615384
+14c65779ea110a4046e475dd425b2c3f7a8db131f3f133f6ae40d1596918b8d1,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00056.wav,فهي الوجه الآخر لمقاومة الاحتلال,فهي الواجه الأخر لمقوامة الحتلال,0.6
+19a2ce05da06f7c19ca624758176d209f15c4900a0a1ee98be2af694b0d0e9f9,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00057.wav,بعد الفاصل القابضون على جمر المهنة في المكسيك كيف تتحول الصحافة إلى ساحة رماية,بعد الفاصل القابضون على جمر المهنة في المكسيك تيفات تتحول الصحافة إلى ساحة رمائة,0.14285714285714285
+c9c4b6394c629660f207b160ca296f7b0039b3f7fd25a2a78e53498f8ba2e748,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00058.wav,بين أباطرة المخدرات والموظفين المتواطئين,بين أبعطرة المخدرات والمواففين المتواطئين,0.4
+93ed8f551cec3df1c10413c42c3c06ae9ab0acb98374fe3730790c79e7cafee7,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00059.wav,أهلا بكم من جديد قد تختلف الأرقام لكن الثابت هو أن الخطر الذي يتعرض له الصحفيون في المكسيك,أهلا بكم من جديد قد اختلف الارقام لكن الثابته هو ان الخطر الذي يتعرض له الصحة في يونى في المكسيك,0.2777777777777778
+52741cdc2325b594ea6166cf07f053d82f64021e5464a9ff56b3d2a4307ab436,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00060.wav,حقيقة مؤكدة ودرجاته في ارتفاع العام الحالي اكبر شاهد على ذلك,حقيقة المؤكدا ودرجاته في ارتفاع العام الحلي أكبر شاهد على ذلك,0.18181818181818182
+0595e8a0dd0929bfc57a8198032a728c3145973c83697d0066487aaae3b5e442,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00061.wav,على كل حال بناء على هذه المذكرة العقيد القذافي عمل مواعيد للدكتور عمر,على كل حال بناء على هذه المذكرة العجيد القزافة عام المواعيد لدكتور عمر,0.38461538461538464
+892fc6039d07be3bd05e03da795a109e1b6cecda9e970283159761a788fc9535,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00062.wav,والدكتور عمر أصر على أن يكون اللقاء مشترك فذهب معه الشريف حسين الهندي,وذك ترعومر أصرع لأن يكون اللغاء مفترق فهي ذهب بعه الشريف سيانة الهندية,0.9230769230769231
+9b2c9f77a2f2deafc04e06eb345ca82397c2478a4b1975c6a3796c7171af7d8a,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00063.wav,والسيد عثمان خالد عثمان خالد ممثل الترابي ممثل نعم,وعسيد أسمى خالد أسمى خالد ممسل ترابس النه,0.7777777777777778
+d419e6e2d8b1fad7715fbc3c792426a130eb69f41010ca9348e228c62c273759,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00064.wav,هنالك أتفق على أنهم يدعمونا وكانت القوى إيه أشكال الدعم إلي أتفق عليها في الوقت دا يعني,هناك التفق على أنهم يدعمونه وكانت القوة أعشك للدعم للتفق عليها في الوعل يعني,0.6470588235294118
+ab45bea94a0fadff2c1a5b323d25a9073961196fa778b09ba0a0ecab4c07d64e,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00065.wav,آه عسكريا نعم يعني قررتم المواجهة العسكرية نعم نعم إللي أنت وصيت عمك ألا يقوم بها نعم,او عسكرية نام يعني قرارة المواجه العسنان نام كالانتة والستعمك الا يقوم به نام,0.8235294117647058
+54e01066445e93d78bb29557d0cf8244c9e29284a90b8965dcd2e63a1b7b3f07,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00066.wav,التفكير على فكرة السيادة الوطنية ليس للتعبير عن السيادة كحق تقرير المصير للشعوب,تكير على فكرة سيادة الوطني ليس لك تعبير عن السيادة كحق تقريبا المصير للشعوب,0.46153846153846156
+d8e2313773a5c848ff705390f3147931bb8b400476cecfca6a12da116907f562,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00067.wav,كتبرير لبقاء الدكتاتوريات بدون تأثير أثر حتى في كما قلت نظام لم يكن صديق لهم من ناحية أخرى تجد أنه,كتبرير لبقائد كتتوريات بن تأثير أترحت في كما قلت نظام لم يكن صديق لهم من ناحية أخرى تجد أنه,0.25
+8848cde1ce1a2b5c4e1b91ecbeaa5e1e0e1b244ede91c145b9f711f8669a3902,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00068.wav,يه مستعد أن يتفهم أن يقايض هذا مثلا بتفهم دور الدول الإقليمية وتهديد,يتفاهم أن يقاعد هذا ما تلاً بتفاهم دور الدول إقليمية وتحديد,0.7692307692307693
+1aadf83c5db17e4a9138024f1b3555f7df11d63f74f104af3d7832ee1391ff1a,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00069.wav,حدودها وتهديد مكانتها مثلا في قرار مجلس الأمن بشأن اليمن امتنع عن التصويت,حدودة و تهديد مكاني تعملًا في قرار مجلس الأمن بشأن اليمن انتنا عن الطسويت,0.5384615384615384
+c0aa3a08ec1cc92a10ff123dc6b981085db05c37245bbe02bd8a016bf180747f,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00070.wav,يتفهم دور دولة إقليمية مثل السعودية بأن,يتفاحها مضور دولة اكلمية مثل السعودين لأن,0.7142857142857143
+54019f361a93684b1a130af862d2418a71ca843901d0a177e0dd545522ed916f,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00071.wav,وسوف يستفيد منه في التضييق الاقتصادي على النظام المصري بأنه سوف يحرمه من عائدات السياحة,وسوف يستفيد منهم في التضيق لقد صادعاً لنظام المصريب إنه سوف يحرموا من عائدات سياحة,0.6
+29339abeb529b134ed073b496f8179c7d5208d25197b1c5dd8da607522313fab,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00072.wav,ومن حركة الطيران سوف يعطي مصداقية جديدة للتنظيم,ومن حركة الطيارة سوف يأتي مصدق أجديدة للتنظيم,0.5
+09f6edd3e5a827065b39bd81fe24f684e24f3f39f228662bf91bd29ad1cef44c,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00073.wav,سوف يستفيد منه أيضا النظام المصري بأن يثبت نفسه بأنه راع,سوف يسفيد منه أيضاً أن نظام المصري بأن يسببت نفسه بأنه رائن,0.45454545454545453
+7fc92e7cfc6bfef7c66bd53a5c309f79e54009906fea3d40b385d97cecd9064c,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00074.wav,وحام وواقف في وجه الإرهاب,وعاملوا كثيرة الدولتاب,1.0
+1b06b64e0fe1a1ab20be6be349ff7979367a6b96c86e3697500aa651d7358287,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00075.wav,وأنه يحتاج الدعم والمساندة من الشرق كما يحتاجه من الغرب وهذا مصدر من مصادر التمويل,وأنه يحتاج الدعم المسانة دمين الشرط كما يحتاجه منه الغرب وهذا يعني مصدر المصدر التمويل,0.4666666666666667
+0d53389d9a8204996d22d428e8657f7c6836a8a88cfe2e002f980b7d69b17a6a,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00076.wav,أين أخذوا الامتحانات أيوة خمستاشر يوم قبل,أينا أخذوا الامتحدة مسبأة اليوم قبل,0.7142857142857143
+f1080b1c12596a8acfaa8d6bf1f0170441e40ef28901532986b9c435fb9b5f8e,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00077.wav,امتحان البكالوريا كلمني مدير الامتحانات وهو في فزع قال لي الشرطي,دحن البخروريك كلمن يمودير لمتحنات وهو في الثزع فالالي الشرطي,0.7272727272727273
+3fe47e3eafbfa17b0451665a9aa6c6b0c352a4c53fd565195ab1a65b1039c19e,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00078.wav,الذي يحرس ديوان الامتحانات طوال السنة هو موجود الآن إمبارح ما جاش واليوم ما جاش,الذي يحرص ديوان المتحنات طوال السنه وموجود الآن البارح مجش وليوم مجش,0.7333333333333333
+e8d09fc2914ea0519be49fdd606a690b5401970b3dba3bf66d6ea86de9ad7f1a,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00079.wav,فكلمت أنا مدير الأمن وقلت له كيف يعني الآن والمواضيع كلها جاهزة,فكل لمثال موضير الأمن وقلت تقيف يعني أن والمواضع كلها جاهزة,0.5833333333333334
+53ff3a445c71b0a108c11554902847dcba1770f98113c78f2bc2d41f6bbdd79e,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00080.wav,وهي في صندوق حصين يعني في الخزانة الحصينة الآن نحتاج الحراسة قال لي سأعيد الشرطي أعاد أعاد الشرطي,وهي في الصندوق حصينياني في الخيزان الحصينيان لأن نحتاج للحرص فالنساء ويد الشرطي عاد الشرطي,0.6666666666666666
+24c01fe7887882c30cdd1810333a07478ba43fd3e8169adae30f20e5f108d93f,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00081.wav,كان إدراج قضية فلسطين ثانية وثالثة ك جرى إهمال لقضية فلسطين في قمة عمان سبعة وتمانين قبل الانتفاضة,كان إدراج قد يتفلسطين تانية وثالفكة جرى اهمال قد يتفلسطين في قبمت عمان 7 وتمانين قبل الانطفاض,0.5555555555555556
+6e8147fb398ec1984edc2be0afc8116b8b0adc02e8e92bbb55a3b0fa4a5b6dc7,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00082.wav,الآن في في تمهل كأنها فعلا على سلم الأولويات وبالتالي جاءت كأنه تذكير للعالم لأ نحن هنا,في تمحه وفي عالم على السلم الأولوية طالعاته وفي تلجاء وفي تلجاء وفي تلجاء وفي تلجاء,0.9411764705882353
+d1331130914810af0caef6ab36f2c2126a5c36504e1fe36f16e6c01fb134a113,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00083.wav,والقضية الفلسطينية لم تمت موجودة ولم تجد من يحمل هذا سوى الجيل الذي ولد بعد أوسلو,قضيف الاصطيني لم تموت موجودة ولم تجد من يحمل هذا سوى جيل الذي يولى دبعات أسله,0.4375
+78d82da2cd51318bc59633bc402f4a6e847800b193a619d0449e7ef6a6a8cdb4,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00084.wav,وهنا المفارقة الكبرى أنه هذا الجيل اللي من أجله ضغط لتغيير مناهج التدريس ولتغيير عقله ولكذا وأنه سيأكله الاستهلاك وكذا إلى آخره,هنا المفارق الكبرى إن هذا الجيل اللي من أجد ضغط لتغير منها جد التدريس ولتغير عقلو ولكذا وأنه سيأكل الستهلاك وكذا إلى آخر,0.5454545454545454
+a9d814b9d6688cc0b0f1851c6b665236dfafa2df0f2aa78f26886f9b37065030,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00085.wav,هذا الجيل هو الذي صنع هو ولد بعد أوسلو هذا الجيل ما الذي أدى لها دكتور,هذا الجيل هو الذي سنعوى وليت بعد أسله هذه الجيل من الذي أدل هذا كتور,0.5625
+2a6cc16dc160247769636e2b39ca78d0991943610b253259392a1c2b2840fbec,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00086.wav,فهمنا الرسالة وعلينا أن نراجع بعض سياساتنا وقد فعل ذلك,فهمنا الرسالة وعلينا النراجع بعض السياساتنا وقد فعله قالك,0.5
+3765febd0655420790a4f1c79026571e6b1e4797bad79ce2dbcf161ba703d367,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00087.wav,والشعب التركي في النهاية حوالي نصه أكثر من تسعة وأربعين فاصلة خمسة وسبعة في المئة,والشعب الترك في النهائحة واضحة وأسر منتسعى البيين فاصل خمسة وسبعة في المئة,0.6
+212dc611c1439d8dea808ebc1d4e843032a899c7a47d27b20a5cf268485419bf,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00088.wav,صوت له ومن المهم أن نركز عليه أنهم صوتوا لحكومة قوية منفردة,سوط له ومن المهم أن ركز علي أنهم سوط لحكوم قوية من فردة,0.5833333333333334
+59ea3263261da95d41720ed1a633975090ae34eb5623c3a6ece11a82bc2438d7,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00089.wav,ما إن أعلنت نتائج الانتخابات حتى عاد الحديث بقوة من أجل,ما إن عالنا تأجل ان تخبات حتى عاد الحديف بقوة من أجل,0.45454545454545453
+2490b2733878703c71d8bd48766fa9608a1e010a5a3fc703c474e8cbc06cb823,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00090.wav,التعديلات الدستورية الرئيس أردوغان طلب اليوم من الحكومة,التعديلات الدستورية الرئيس أرضغان طلب اليوم من الحكومة,0.125
+8672b3eef779640ec8cb955a3972e6472076af34303db6eb72606535de28800a,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00091.wav,ثماني فاصل خمسة من شعب أصواته في الانتخابات وقمنا ب,ثماني فاصل 5 من شعب في نسواطه في نتخابات وقمن بي,0.6
+9c4321e2584f3b91ae042f79f490384c6928bc7a6aeb8ff6e52269ac7644fb13,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00092.wav,رحلة بحث في ذاتنا لماذا حصل ذلك ولماذا حصل ما حصل لنا,الرحلة بحث في ذاتنا لماذا حصل ذلك ولماذا حصل محصل لنا,0.25
+1a85602f194aa0fdb782e95c1ff9da138d0ed8915149a15b78a063881ddaf812,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00093.wav,وللأحزاب الأخرى وفي الأشهر التي فصلت مرحلة الانتخابات في يونيو إلى الأول من نوفمبر,وللحظاب الأخرى وفي الأشرة التي فصلت المحالة لنتخابات في يونيو إلى الأول من نوظمبر,0.35714285714285715
+4b0d56d6ae558f0e6bbb5995faf17b8fb973168495c7d3092f41033772a243dd,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00094.wav,كان هناك الكثير من المناورات السياسية وكل,كان هناك الكثير من المنعورات أسياسية وكل,0.2857142857142857
+ac6887270192971bf9601c1cd99e9f3c2856f0e4afec191f75fafcce19732937,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00095.wav,المفاوضات من أجل تشكيل حكومة ائتلافية فشلت وقرر,المفاوبات أجل تشكر حكومة تلافية فشلت وقررها,0.625
+3be05ba112743bed8774f52ab62c9dd36969fa3765f54bb35dee3c7894145e64,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00096.wav,لمن هو يقود البلاد حاليا ويخوض,لمن هو يقود البلاد حاليا ويخود,0.16666666666666666
+91a4602b4d1e5352509a6a02d779da0166a75f80a607e0305939c4856ad2163d,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00097.wav,ولك في تدهور الدولار وما شابه ما يعني ما يعانيه المصريين,ولك في تضهر الدولار ومشابه ما يعني ما يعنيه المسريد,0.45454545454545453
+65bfdceadad8d2fad084cb0fcf91c9043e74ec05666d5035075e07f94168e2a2,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00098.wav,أو معتقلون أو مقتولون أو شهداء أو منفيين في الخارج,أو معتطلون أو مكتولون أو شهداء أو من فيين في الخيرق,0.5
+267c48ac91a0867767ac74b8fcaad385c059fd0d0408b65e2957b3e17175726b,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00099.wav,فمن والمتنافسين هم قائمة المخابرات وقائمة الداخلية,ثمًا والمتنافسين هم قائمت المخابرات وقائمة الدخلية,0.42857142857142855
+774fac6f6a7d690e46103c7432c617f8b0dadd532427920fe28dbb8ff6ba8fcd,MGB2,C:\Users\user\Desktop\MGB2\mgb2_sample_100\audio\mgb2_00100.wav,فلماذا يذهب الجمهور وهو ويعلم أنها يعني منهم فيهم,فالمسة يسهب الكموره يعلم أنها يعني منهم فيهم,0.5555555555555556
+3a3affb934645615a496777b13aa50a6ce1abaaf216e8c3ec9f23e9cbec14241,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\Call_001.m4a,"Agent: السلام عليكم، معك خدمة العملاء، كيف اقدر اساعدك؟
+Customer: وعليكم السلام، لاحظت أن فاتورة هذا الشهر مرتفعه بزياده ايش المشكله؟
+Agent: أعتذر عن الإزعاج، بأراجع تفاصيل الفاتورة معك الآن.
+Customer: عادةً  الفاتورة عندي ثابتة، ايش الخلل الي حاصل عندكم 
+Agent:ظاهر لي انو عندك اشتراك في خدمة إضافية لنغمات الانتظار  قبل أسبوعين.
+Customer: بس انا ماافتكر اني اشتركت في اي خدمه .
+Agent: ممكن اشتركتي عن طريق  رسالة نصية، هل ترغبي في إلغائها؟
+Customer: yes ، 
+Agent:   تمام تم إلغاء الخدمة، وسأرفع طلب استرجاع لقيمة الشهر الحالي.
+Customer: طيب  شكرًا لك لتعاونك، بس قد ايش حيحتاج عشان ترجعلي الفاتوره؟
+Agent: من ثلاثة إلى خمسة أيام عمل، وستصلك رسالة بالتأكيد.
+Customer: ممتاز، يعطيك العافيه.",السلام عليكم معك خدمة العمل أكثر سعادك وعيكم السلام لحطة نفاتورة هذا الشهر ملتفع بسيادة أشياء مشكلة أتداع زعاج أبرال في تفاصيل فتورة ماكلا بس تلعادة نال الفاتورة عنده تابتع اشي الخلال الحاصل عندكم واحد لنعنتك اشترك في خدمة إضافية لنغامات الانتظار جبل اسبوعين بسنة ما فتفر انت اشترك اشترك اي خدمة ممكن اشتركت يعطي قرسار مصيئة هل ترغبني إلغيها؟ يس بليز اتماعاً تملغا الخدمة وبرفعلك طلب استرجع لقلمة الشهر الحالي طيب شكرة لتعاونك بس جدش هيا يحتاج استرجع دي الفاتورة مثل اثلاثة إلى خمسة يعمل وبتصل كرسالة بالتكيد حلتاز ياطيق العافية,0.7589285714285714
+1535276b6d55f5ff2a5ed52f7dcd9adbd80087175918fc5d934bc7921f35c093,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_002.m4a,"Agent: اهلا فيك بخمة العملاء تفضلي .
+Customer: أهلًا،  لو سمحتي انا سددت فاتورتي أمس، ولاحظت أن المبلغ انخُصم مرتين من عندي ايش الحاصل؟.
+Agent: أعتذر عن الاشكاليه، هل سددتي عن التطبيق أم الموقع؟
+Customer: ايوا عن طريق التطبيق، وظهرت لي رسالة خطأ ف عشان كدا عدت المحاوله مرتين.
+Agent: ظاهرلي  عمليتين بنفس المبلغ وبينهم فرق دقيقة واحدة.
+Customer: طيب هادا هوا الي سار
+Agent: العملية الثانية تبغي  نحسبلك رصيدًا لحسابك أو نعيدها للبطاقة؟
+Customer: لا رجعولي هيا على البطاقه.
+Agent: تمام  تم رفع طلب الاسترجاع، وعادةً يظهر المبلغ خلال أسبوع.
+Customer: طيب ، حيجيني إشعار او لا ؟
+Agent: ان شاء الله راح توصلك رسالة عند تنفيذ الاسترجاع.
+Customer:  طيب شكرًا لتعاونك.",أهلا فيك في خدمة العملات فضلي أهلا لو سماحتين سدت فاتورة أمس وحصلت لأنه لا أخصم مرة تانا عندي إشي الحاصل أعتدر على الشكالية حسدت عن طريق تطبيق ولا بالموقع ايو عن طريق التطبيق وضهرت للسارة خطق فعشان كدعات المحاودة مرة تان بحللي عملية تانب نفس المبلغ وبينهم فرد جيجة واحدة طيب هذا هو للسار طيب العملية الثانية تبولي حسب حالك رصيدة الحسابك أو رجع البطاجة لا رجع ليه البطاجة تم رفع طلب السترجاع وعادث الراحي طار لك لم يخلد السبوع حيث يجمع الشعار واللقاء انشاء لرحطوص السترجع حسنا، شكرا لتعونك,0.8
+0b72009dfc86561b4765d0907611968d8559cd1afdb4c7e868cc614ea31fd8ee,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_003.m4a,"Agent: السلام عليكم، معاكم خدمة العملاء كيف اقدر اساعدك؟
+Customer: وعليكم السلام، هذه المرة الثالثة التي أتصل فيها بخصوص المشكلة نفسها.
+Agent: أعتذر جدًا، ايش المشكلة ؟
+Customer: ألغيت خدمة الإنترنت الإضافية قبل شهرين، وما زالت الرسوم تظهر .
+Agent: أرى أن طلب الإلغاء مسجل فعلًا، لكن الرسوم استمرت.
+Customer: في كل مرة تقولولي حتحاو المشكله  بس في الفاتوره تنزل، .
+Agent: أتفهم انزعاجك تمامًا.
+Customer: إذا مارجعتو  المبلغ هذا الأسبوع سأرفع شكوى رسمية .
+Agent: سأصعّد الطلب الآن إلى قسم الفواتير بأولوية عالية عشان يتعاملو مع المعامله بسرعه.
+Customer: أريد تأكيدًا مكتوبًا برقم الطلب.
+Agent: بيصلك الان رقم الطلب برساله، وبيتواصلو معك بعد المختصين خلال يومين ان شاء الله.
+Customer: حستنى ، لكن هذه آخر مرة. اكلمكم",سامع لكم معك خدمتهم لكي في درسالي وعليكم السلام هذه المرة التاصل التي تصرفها بخصوص المشكلة نفسها عاتي تجد نعيش المشكلة الغاتي خدمت الإنترنت الإضافية جبل الشهرين وما زالت الرسوم تضهر لك اوكي ضهر لكي طلب الغام سجل فعلان لكن الرسوم استمرت عنك في كل مرة قليولي حد حل المشكلة بس في الفاتورة تنزل أتفاهم انزع عاجك إذا مرة جعته هذا المبلغ هذا الأسبوع حرف عشك ورسمي الأن بس عدلك الطلب إلى قسم الفواتير بأولوية عالية عشاني تعمل مع المعامل بسرعة أبغتك كيه بمكتوب برغم الطلب بس لكي الآن رجم الطلب الرسالي خلال دي جايك ويتوصل معك بعض المختصين خلال يوميان شاء الله حس تننا لكن هذا أخر مرة أعرف كلهم كو,0.672566371681416
+cbaddca311b24266d10dba14bc86e482292f7db82d157f656fe335149a8257bf,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_004.m4a,"Agent: أهلًا وسهلًا، معك خدمة العملاء اتفضلي .
+Customer: مرحبًا، أرغب في تغيير تاريخ إصدار فاتورتي الشهرية.
+Agent: بكل سرور، ما التاريخ الحالي للفاتورة؟
+Customer: تصدر في اليوم الخامس، وراتبي يصل في السابع والعشرين.
+Agent: طيب اقدر اغيرلك هيا لتصدر في اليوم الأول من كل شهر، هل يناسبك ذلك؟
+Customer: نعم، هذا أفضل.
+Agent: طيب  انتبه إلى أن الفاتورة القادمة ستكون جزئية لفترة أقصر.
+Customer: مو مشكله، المهم أن تنتظم بعد ذلك.
+Agent:  ممتازتم تعديل التاريخ بنجاح.",هل نسهل معك لخدمة رعملاء تفضلي؟ مرحبا أرغب في تغير تاليخ إصطافة تورة الشهرية؟ بكل سرور، يشتاليخ الحياة الفاتورة؟ تصدر في اليوم الخامس ورات بيصر في السابع الى 20 طيب، أقدر غير لكي عشان تصدر في اليوم الأول مكل شهر هل ليناسبك؟ نعم هذا أفضل طيب، تبهي الفاتورة اللقاتي محتكم الجسئية الفترة أقصر مو مشكلة، المهم انها تنتظر بعد ذلك ممتاز تنتعدي للتالي,0.618421052631579
+83c04374bc9fc60a2b53e5ffd0017cd12da699f660ab9d9734b4c1ea74bf1444,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_005.m4a,"Agent: هلا والله، معك خدمة العملاء، كيف أقدر أخدمك؟
+Customer: لوسمحتي ، الفاتورة طالعة لي مرة غالية، ايش الهرجه؟
+Agent: أبشري، خلني أشوف التفاصيل.
+Customer:طيب انا الشهر هذا كنت مسافره بس أسبوع .
+Agent: اوكي واضح، فيه استخدام بيانات تجوال خارج المملكة.
+Customer: بس أنا كنت مشغل الواي فاي أغلب الوقت!
+Agent: ممكن الجوال كان يحدث تطبيقات بالخلفية على بيانات الجوال.
+Customer: طيب كان المفروض ترسلولي  رسالة تنبيه.
+Agent: معاكي حق، بفعل لك تنبيه الاستهلاك عشان السفرات الجاية.
+Customer: طيب فيه باقة تجوال كانت بتكون أرخص؟
+Agent: إيه، فيه باقات أسبوعية، بأرسلها لك برسالة.
+Customer: طيب يعطيكي العافيه.",هل يقول الله ما كنت بمترع ملاكي فاكدر اخذامك؟ نساً ما احتى الفاتورة طالعا لي مرة غالي أشياء من الهرجم؟ ابشري خلينا يشوف التفاصيل طيب أنا الشهر داكم في مصافرة but this is for okay واضح نفي استخدام بينات الدولة أخرج الماملقة بس أنا كنت مشاهده للايفاي أغلب الوقت وممكن الدول كان يحدث تطبيقات بالخلفية على بينات الدولة بس كان مفترض سرولي وبرسالة التنبيه معك حك أبفعاً لك تنبيه الاستهلاك عشان السفرة الجائع طيب با في باقت الدول الحدكون أرخص؟ اي في باقت سبورية برسل الكبير سالة طيب اعتكل عافيا,0.7319587628865979
+e6360d83ee85f340a8e8154f612f7b4200dd9f62829c75a1859f28d632128054,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\Call_006.m4a,"Agent: يا هلا، معك خدمة العملاء.
+Customer: يااهلا وسهلا،  اقولك أنا سددت الفاتورة قبل يومين بس التطبيق للحين يقول غير مدفوعة.
+Agent:من فين سددتها ؟
+Customer: من نفس تطبيق البنك عن طريق سداد.
+Agent: أحيانًا ياخذ  يمكن لين ثلاثة أيام عمل .
+Customer: بس بس اخاف يقطعون الخدمة عبال الثلاث الايام هادي.
+Agent: لا تشيلن هم، بحط ملاحظة على حسابك إنك مسدد.
+Customer: هل  أحتاج أرسل لكم إيصال ؟
+Agent: إذا ما ظهرت على الموقع بعد بكرة، أرسله من خانة الدعم .
+Customer: تمام، ممتاز.
+Agent: فيه شي ثاني أقدر أخدمك؟
+Customer: لا، يديكي العافيه",يا هل معتفت مثل أمنا؟ يا أهل المثالة أقول لك أنا سدت الفتوركة باليومان بس تطبيق لالحيني قليل غامت فوق من فنسد التيه؟ من نفس تطبيقة بانك عن طريق سدات حيانا يا أخذ كن 3 أيام عمل بس خافك طعنا الخدمة عبالتها ثيامة لا لا لا لا لتشي لينها بحط ولا حب على حساب كن يمسدد طيب هل اللي يحتاج بسلكم ميصال إذا ما ظهرت عن الموقع بعد بكرة أرسل من خانت الدام تمام موجود في شيء تاني أكد رخدمك لا يديك رافي,0.75
+1e6bf7b87b204428e2c554b3ad7f60d8a22888cc58532ddd9848ef8ab915fe63,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_007.m4a,"Agent: السلام عليكم، كيف أقدر أخدمك؟
+Customer: وعليكم السلام، الفاتورة هذا الشهر زايدة، ونفسي اعرف ليش.
+Agent: أبشري، فيه باقة دقائق دولية إضافية مفعلة من شهر.
+Customer: صحيح، فعلتها لما كنت أكلم أهلي برا.
+Agent: طيب تبيني اخليها ولاالغيلك هيا؟
+Customer: لا خلاص، الغي لي هيا .
+Agent: طيب تمام قايق  تم الإلغاء،.
+Customer: يعني الشهر الجاي ترجع الفاتورة طبيعية؟
+Agent: إيوا ان شاءالله، ترجع على قيمة باقتك الأساسية.
+Customer:تمام، وما فيه رسوم إلغاء؟
+Agent: لا، ما فيه أي رسوم.
+Customer: تمام، يعطيك العافية.",السلام عليكم وليك مالسلام الفتور هذا الشهر زايدة ونفسي عارف لاش ابشرين في بطة دقائك دوالية إضافيين فعلم الشهر صحيح فعالت لما كنت أكل ما هل برنا طيب تبين أخليها ولا نغيلك هيك لا خلق صلى الله عليه بيه طيب تمام دقائك تم الإلغاء اوها الشهر جاهدت الجاهد الفتور طبيعية ايها شهر لان شهر حتى الجاهدها لقيمة بقطت كراساسية تمام في الرسوم إضافة ولا معفي لا لن معفق أي رسوم تمام يتكد عارف,0.7261904761904762
+fa5c4070abc5799f1e25cac2fdbaa77c6c73b8bed2a64fb2460495d33ca3ca7a,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_008.m4a,"Agent: hهلا، معك خدمة العملاء اتفضلي.
+Customer: اهلا، عندي مشكلة في الـauto-pay، خصم مني مرتين هادا هالشهر .
+Agent:  معليش سامحينا، خلني أتأكد من الـtransactions.
+Customer: تمام  بس وهذي مو أول مرة، الشهر اللي فات صار نفس الشي كمان.
+Agent: صحيح صحيح ظهر معايا ، أشوف double charge في الشهرين ه>ي.
+Customer: يعني المشكلة عندكم في الـsystem، مو مني انا .
+Agent:  yesواضح  مع الاسف إنه خلل عندنا، ونعتذر منك.
+Customer: أنا أبي full refund للشهرين، اليوم  إذا ممكن.
+Agent: برفع طلب escalation لقسم الـbilling حالًا.
+Customer: وإذا ما وصل الترجيع هالأسبوع بقدم شكوى رسمي الصراحه.
+Agent: مفهوم، اتفهم غضبك وبوقف الـauto-pay مؤقتًا لين ينحل الموضوع.
+Customer: تمام، أنتظر الرسالة.",أهلا معك يخد مدرامل أعتقدني أهلا عند مشكلة في الأوتوباة خصم مني مرة 2 هذا الشهر طيب معلش سامحين ده حين خلينا شفلك الترنزارشين تمام بس هدي مؤول مرة الشهر اللي فاطر لنفس الشيء كما صحيح صحيح ضهر معايا أشوف أنه في دبل شهر شهرين هذه يعني مشكل عندكم في السسة مومنية يسواضح مع الأسف من وخال المناين ده ونعتقدر مني طب طيب طيب معلش أبغل في الريفعين لشهرين كاملة اليوم إذا ممكن برفع طلبة الى اسكليشان أنا كسي ملبي لنك أهالين وذا مصوصة لترجع الهل اسوح حاكد دم شكو رسم الصراحة مفهم مفهم اتفهم غضبك وحوطك في الأوتوباة مققتل لان يحل الموضوع عندك طيب معلش أن تظر الوزال,0.8272727272727273
+52150566c7f4687f0f01060be5e52f0e6bf6815631f1adf8272955b3dce157f2,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_009.m4a,"Agent: أهلًا، كيف أقدر أساعدك؟
+Customer: السلام عليكم، اشتركت في الـoffer اللي فيه discount عشرين بالمية، بس الفاتورة جات بالسعر الكامل.
+Agent:  ممكن اعرف متى اشتركت في العرض؟
+Customer: بداية الشهر، من الـapp.
+Agent:  تمام خلني بس ددقيقه  أتأكد... الـpromo code مسجل وولا لا.
+Customer: طيب كيف نصلحها؟
+Agent: بضيف الـdiscount كcredit على حسابك.
+Customer: يعني بيبان في الـnext bill؟
+Agent: إيه بالضبط، وبيتطبق العرض بشكل طبيعي من الشهر الجاي.
+Customer: تمام، ممكن ترسل لي confirmation؟
+Agent: ، حتوصلك برساله SMS 
+Customer: Perfect، thank you.","أهلا كيفك دراساعدك؟ سلام عليكم لصمحتي أنا شتركت في الأفر اللي فيه لدسكانت شركة الميه بس الفاتورة جاتب السيارة الكامير ممكن أن أعرف متشركت في العرب؟ بيهات الشهر من الأب تمام خليني بس دقيقة أكد من البروم مكاتم سجر ولا لا طيب كيف حنصل لها؟ بضيف الدسكانت على الكردت على حسابك يعني هاي بان في المكسبة للعدي يوضبت ويطبق العرب بشكل طبيع من الشهر الجات طيب تمام شكرة بس ممكن تسيري الكمفرميشة حتو صلق برسالة اسمس OK, بحرفيت Thank you",0.75
+c4b236ea9b8c2b4fa8fce84159bbb2a249580114328726e36bb8d6c2a02691a5,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_010.m4a,"Agent: السلام عليكم، معك الدعم الفني.
+Customer: وعليكم السلام،  لوسمحتي سرعة الإنترنت في البيت صارت بطيئة مرا من يومين.
+Agent: هل جربتي تعيدي تشغيل جهاز الراوتر؟
+Customer: ايوا جربت، شغلتو مرتين برضو مااتحسن
+Agent: هل البطء على جميع الأجهزة أم جهاز واحد؟
+Customer: على كل الأجهزة.
+Agent:  تمام  بخليهم يجري فحصًا للخط من جهتنا
+Customer: وما الحل؟
+Agent: سأعيد ضبط المنفذ عن بعد، ممكن تستني دقيقة.
+Customer: طيب مومشكله... الآن كاني حاسه انو  السرعة بدات تتحسن.
+Agent: ممتاز، إذا تكررت المشكلة حسنرسل  لكم فنيًا.
+Customer: شكرًا يعطيكي العافيه.",السلام عليكم وعكد دعم الفني وعليكم السلام لنسمحتي أنا عندي سرعة الأكترمات في البدسة رطة بطيئة أمر من يومين جربتي تغيدي تشغل جهاز الرعوتر أي وجربت بس يعني شغلت مرة تان وبرض ما تحسن المضر البطل على جميع الأجيزة واليبس جهاز واحد لا على كل الأجيزة تمام حقليهم يجرفة استلخط من جهدنا ويشوف أيشي المشكلة طيب أشياء الحل حنث بط المنفذ عن بطل وممكن تستانيدي جيجة طيب موشكلة كان حسن السرعة بالأتدحسن تمام ممتاز إذا كرة سيكون مفكرة حسنة شكراً يعتكلا فيه,0.7613636363636364
+f590edb99fc6ce7d08e60012f8e411c7e61721f4785e2a5b838a26130f3ace06,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_011.m4a,"Agent: مرحبًا، كيف يمكنني مساعدتك؟
+Customer: لو سمحتي مني قادره  ادخل على تطبيق الشركة منذ الصباح.
+Agent: ايش الرسالة التي تظهر لك؟
+Customer: تظهر رسالة أن كلمة المرور غير صحيحة، مع أنني متأكد منها.
+Agent: هل غيرت كلمة المرور مؤخرًا؟
+Customer: لا، ماغيرتها .
+Agent:  تمام حارسل لك رابط إعادة تعيين كلمة المرور برسالة نصية.
+Customer:  yesوصلتني الرسالة.
+Agent: اختر كلمة مرور جديدة وحاولي انك تخشي.
+Customer: طيب بس دقيقه نجح الدخول ممتاز.
+Agent: أنصحك أيضًا بتحديث التطبيق لآخر إصدار.
+Customer: طيب ان شاء الله يعطيكي العافيه.",مرحبك كيف يمكن ان نساعدك؟ لسماحت مني قادرات خلال التقبيق على قشركة مصوغة اشار رسال تظهر لك تظهر لأن كل ما تنمروض يرصحي حمعنا نمتأكد مننا هل غير تكلم تنمروض مؤخرين؟ لا أمع غير دعو تمام حرسل الكرابط أعدت تعينك كلم تنمروض برسالة نصية يس وصح نرسالة اختارك كلم تنمروض جديدة وحاول انك تخشي طيب بس تجيجة نشحد نخوة المنتاز انسحك بتحديث التطبيق لأفرص برسالة طيب شاء الله يطيقل عفر,0.7790697674418605
+2729dd27f245325078eff1f60b092b31b41388da6669d69a6684c4e90611384e,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_012.m4a,"Agent: السلام عليكم، معك الدعم الفني.
+Customer: الإنترنت مقطوع في بيتنا من ثلاثة أيام كاملة.
+Agent:معليش  أعتذر جدًا، هل سبق أن تواصلتي معنا؟
+Customer: كل يوم بتصل عليكم، وفي كل مرة يُقال لي إن الفريق يعمل على المشكلة ومني قاعده اشوف اي حل.
+Agent:ايوا انا شايفه أنو في بلاغً مفتوحً باسمك.
+Customer: أنا قاعده اشتغل من المنزل، وتضررت بشكل كبير.
+Agent: أتفهم ذلك اتفهم غضبك عزيزتي
+Customer: أنا ابغا اتحدث  مع احد مشرف، .
+Agent:  طيب حسأصعّد البلاغ إلى المشرف المسؤول فورًا.
+Customer: وابغا تعويضً عن الأيام المنقطعة.
+Agent: طيب ولايهمك  سيتم احتساب تعويض، وسيتواصل معك المشرف خلال ساعتين.
+Customer: بستنى الاتصال.",السلام عليكم مع كل الدعم الفنكي في الدرختمي اللي انتنت مكتوح في بيتنا من ثلاثة يامك أولا علي شاعت تجدًا هل سبقت وصلت معنا؟ كل يوم بطصل عليكم كل مرة جلية النفارقة يعمل على المشكلة ومن يجعل أشوف أي حال أي وانشال فى النفي براف مفتغ باسمك أنا جعلت اشتغل من المنزل وطضررت بشكل الكبير تفهم ذلك تفهم مطبقا زيزتي الأنهان شوف أنا أبغط حدث مع أحد مشرف طيب حساعد البلاغة المشرك المسؤول فورة وأبغط عويد على اللي يام المقدع طيب وليهم مكحيتم احتساب التعويد وحيت وصل المعاكل المشركة أتساعد باستنة للتفار تمام شاء الله أي خدمة تانية؟ لا تكلاف,0.7766990291262136
+609a31928cb996df970e71cc9f7924b5501db8bfafc7b64953fb30845cf69c26,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_013.m4a,"Agent: أهلًا وسهلا تفضل كيف اقدر اخدمك  .
+Customer: لوسمحتي انا  اشتريت جهازًا جديدًا، والجهازما بيتعرف على الشريحة.
+Agent: هل الشريحة كانت تشتغل على الجهاز القديم؟
+Customer: yes، كانت تشتغل بشكل طبيعي.
+Agent: طيب يمكن  الشريحة نفسسها  قديمة مهي متوافقه مع الجهاز الي الان عندك انتي تقولي  عندك جهاز صح؟.
+Customer: yes 
+Agent: طيب يمكن الشريحه نفسها قديمه
+Customer: يعني احتاج شريحه جديده .
+Agent: ايوا ويمديكي تختارين الشريحه الالكترونيه ا>ا كان جهازك يدعمها من عندنا .
+Customer: ايوا اعتقد انو يدعمها 
+Agent: تمام حرسلك رقم التفعيل عبر البريد الالكتروني حاجه ثانيه؟.
+Customer:  طيب بس ابا استفسر هل حيتوقف رقمي اثناء النقل؟                              Agent : ممكن لبعض دقايق كدا بعدين يرجع للخدمه",أهلا مثلاً تضر كيف يقدوخ دبك نسماً حتى أنا شريحة جهاز جديد والجهاز ما ميتارف على الشريحة الشريحة كاتش تغل هي في الجهاز الجديم يس كانت شتركة الطبيعين طبيعين كنشريحة نفسها جديم إنه ما يمتوافق مع الجهاز اللي الآن عندك انت تقولي عندك جهاز جديد صحة طيبين كنشريحة نفسها جديم طيب يعني هذا يعني أنه أشهتها جهاز الجديدة ويمديك كماتش خصريحة للخصفانية ويجي هذا جديد عنها من أنتهم أيها تقدمي دعمها حسناً لكو ماذا تفعلها بالبيضة اللي تفعله حاجة ثاني بس أبس تفسي الحيث ويجيه ميتنا أنك ممكن البضع دكاك كذا بس بعد تفعل بدني وجهل الخدمة ممتاز طيب شكراً,0.8518518518518519
+742f02806f3a73eded66a0c5da8e01cd0269ce04e8691443e54f76aac7d8c6d1,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_014.m4a,"Agent: اهلين، معك الدعم الفني.
+Customer: اهلا وسهلا، اقولك أنا مسافر الان والنت مو قاعد يشتغل معي أبدًا.
+Agent: عندك باقة تجوال مفعلة؟
+Customer: إيه، اشتركت فيها قبل لا أسافر.
+Agent: طيب، خاصية تجوال البيانات مفعلة في إعدادات الجوال؟
+Customer: والله ما أدري، وين ألقاها؟
+Agent: تلقينها في  الإعدادات، ثم الشبكة الخلوية، وفعّل تجوال البيانات.
+Customer: طيب دقيقه  فعلتها... للحين ما فيه نت نفس الشي.
+Agent: جربي تطفي الجوال وتشغله.
+Customer: إيه اشتغل الان شكرا الله يديكي العافيه!
+Agent: الحمدلله، إذا رجعت المشكلة اختار الشبكة يدوي.
+Customer: شكرا شكرا.",أهلا أن ما كدام الفني؟ أهلا مثالك أقولك أنم سفر لأنم نتأبد مموغادي شغل ماي أنتك بقد تدوال مفعله؟ نعم أشترك فيك بلاسافر طيب خسي تدوال بينات مفعله في عددات الدوود ووما الدري تلقين في الأدادات ثم مشبك الخلوية وفعل تدوال بينات طيب تجيّة فعالتها لرحيم ما فنفس نفس شيء أجرب الطفل الدوال شغري إيشتغل الى شكراً على الله أدك العفق أهلاً أتكلم أن أخطار الشبكة أيضاً شكراً شكراً,0.8202247191011236
+ff0140ef128220200c557772b92c5d370a9b72da322fddc6c6993db4b9e5ae91,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_015.m4a,"Agent: السلام عليكم، تفضل.
+Customer: وعليكم السلام ورحمة الله وبركاته، اقولك اختي النت عندي يفصل كل نص ساعة صارلو اسبوع أسبوع.
+Agent: سامحنا،هل فيه بلاغ مسجل؟
+Customer: إيه، وقالوا بيجيكم واحد يوم الأحد، وخمني ايش ما جا أحد.
+Agent: صحيح، أشوف  ان الموعد ما تم.
+Customer: جلست أاستنى طول اليوم وما أحد كلمني !
+Agent: أعتذر لك، هذا خطأ منا.
+Customer: شوفي انا ماابغا اعتذارات، أبي حل اليوم عندكم حل؟.
+Agent:  انا بصعّد البلاغ للمشرف وأطلب موعد أولوية بكرة الصبح.
+Customer: إذا ما جا بكرة بلغي الاشتراك خلاص ماابغاه.
+Agent: أبشري، بيتصل عليك الفني اليوم  قبل لا يوصل.
+Customer: طيب، نشوف.",سلام عليكم ومتفضل و عليكم سناع احتضابك هذا أبلك اختينت عندي يفسر كل نصاة صابل سبول سامحين هل في بلغنة تلدل او قال بيجيكم واحد يوم لحد وخمني يش محدة صحيح اشوف ان يموعد ما تن اجرس تستنا طول اليوم محد كل لمني اعتدر لك هذا الخضأ مننا شو بي اما ابغت هذا رات ابغت حل اليوم عنده بحل ان رح سعد لك البلغ المشوف رح اطلب مواعد اولوية البكرة صباحة اذا ما جاء بكرة تابق بلغل اشترك خاص ما برى افشر اي بيتصل عليك الفن اليوم قبل اليوم صلى الله عليه وبرك,0.7920792079207921
+68b6878dd11c21b55cdf2fc2734f37f6f45e37ae818c9aa374963a062622e381,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_016.m4a,"Agent: هلا والله، كيف أخدمك؟
+Customer: هلا، المكالمات تنقطع معي كل ما أوصل الدوام.
+Agent: يعني في مكان معين ولا بس بالدوام؟
+Customer: إيه، في البيت عادي، بس بالدوام التغطية ضعيفة.
+Agent: تقدر تعطيني اسم الحي؟
+Customer: حي العزيزية.
+Agent: فيه أعمال صيانة على البرج القريب هناك هالأسبوع.
+Customer: تمام طيب متى تخلص؟
+Agent: المتوقع خلال يوم الي  يومين.
+Customer: وفي هذت الوقت المفروض ايش اسوي ؟
+Agent: فعّل خاصية الاتصال عبر الواي فاي من الإعدادات.
+Customer: تمام، بجربها، .",هل الله كيف اخذك؟ هل المكلمات تنتقع معك كل ما أصوى الدعام؟ يعني في مكان موياه ولا بس في الدعام في البات عادي بس في الدعام التغطي الآيفة طبتك دين تتعطيني اسم الحقيق؟ حي لازي ديّة في أعمال سيانة عن البجري في نقفها الاسبول تمام طبع تتخلص المتوقع خلال يوم إلى يومين وفي هذا الوقت يشلم فروضة سوي فأني خاصية الإتصال أبدا ويفاي من الإدادات تمام بجربو,0.6794871794871795
+949b85368b0058e2bbd87d2cbeddedd845e7e1999d9630361330a8b08bd8f7ab,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_017.m4a,"Agent: ياهلا معاك خدمة العملاء
+Customer: اهلين، أبي أحول شريحتي لشريحة إلكترونية.
+Agent: أبشر، جوالك يدعم الشريحة الإلكترونية؟
+Customer: إيه، جوالي جديد.
+Agent: تمام، بيوصلك رمز QR على الإيميل.
+Customer: وبعدين وش أسوي؟
+Agent: تفتح الإعدادات، بعدين تسوين إضافة شريحة، وتصور الرمز.
+Customer: وصلني الإيميل... خلني أجرب.
+Agent: خذ راحتك.
+Customer: إيه، طلعت الشبكة الحين.
+Agent: ممتاز، الشريحة القديمة بتوقف تلقائي.
+Customer: حلو، يعطيك العافية.",يا هل معك المتلمة لها أهلا يا أبي أحوش ريحة شريحة الكترونية أبشر جوالك دعم شريحة الكترونية ولا لا أي وجوالج دي تمام بيصول لكل أن رمس QR على الامل طبع دين أشياء سويين تفتحين الأدادات بدين تسمين إضافة شريحة ودصورة للQR وصال نرمس خليني أجربة خضر حد أي وطلعات ليشابك الحين وممتاز شريحة الجديم ورحتت وقت في القائي حلو يتكلم عافيا,0.8615384615384616
+e0c5b2ae480da66ac9c7592ccf766289de00037c96a87bb43490e79cf83605ce,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_018.m4a,"Agent: هلا، معك الـtechnical support.
+Customer: هلا، الراوتر عندي ما يشتغل، سويت restart أكثر من مرة بس still ما فيه internet.
+Agent: الـlights في الراوتر وش لونها؟
+Customer: ايت lightالـinternet light أحمر من يومين.
+Agent: هذا يعني فيه مشكلة في الـconnection من طرفنا.
+Customer: أنا فتحت ticket قبل يومين، وقالوا technician بيجي، وما جا.
+Agent: نعتذر، الـappointment انلغى من الـsystem.
+Customer: Seriously؟  انتي فاهمه أنا أشتغل remote وكل شغلي واقف الان.
+Agent: بسوي escalation للـticket الحين ونحجز أقرب موعد.
+Customer: أبي أكلم supervisor، ماراح اتحمل اكثر من كدا اقولك شغلي واقف.
+Agent:  تمام بحول طلبك للـsupervisor وبيتصل عليك خلال ساعة.
+Customer: Okay، أنتظركم.",أهلاً معك التكنكة سبورت هلا أغطب عندي ما يشتغل سواته وبيستارتك ثم مهربة بالسستل معاً دن اتراته الهياتي تنتكفر راوته اشنانها ايض لديت تمنى الهياتي تكثتك احمة ممنيوماً هذا يعني انه في عندنا مشكلة بالكنكشة من طرفنا شوبي أنا فتحتكت كبليوماً وقالوا تكنشة وبيجي ومحجة نتذر لك الى 포인ت متلغة من السستل ثياري اثنين؟ اتادي فاواني أنا اشتغل لبي موتك ويشغل باقفنا بسوء اسكليش الاتكت الحين ويجيز لك أجرب موقع أبي أكل مسبوك وعيزر ما راح تحملك ثبن كي دخلص أقول لك شغل باقف تمام راح أقول لك بحلطة لبيك لسوار فعيزر وبيتصل عليك راسع عشاء الله OK، نتظركم,0.883495145631068
+d3bc85ebede99dd2d03a5465b8dea2c30a5b6e21eecc30e662e6a5fea4da2585,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_019.m4a,"Agent: أهلًا وسهلا معاكي خدمة العملاء ، كيف أقدر أساعدك؟
+Customer: هلا، الـapplication يطلع error كل ما أحاول أدفع الـفاتوره.
+Agent:  errorايش الـerror message الي طالعتلك؟
+Customer: يقول payment failed، please try again.
+Agent: جربت تسوي update للـapplication؟
+Customer: لا، ما سويت.
+Agent: سوه update وجرب مرة ثانية.
+Customer: تمام خليكي دقيقه معايا سويت الـupdate... still نفس الـerror.
+Agent: فيه issue عندنا في الـpayment gateway، الفريق يشتغل عليه.
+Customer: طيب كيف أدفع المبلغ الان؟ 
+Agent: تقدر تدفع من الـwebsite، وبمدد لك الـdue date ثلاثة أيام.
+Customer: تمام، thanks.",даبنا ذكية الوقيف يزEEزني بك). لن Beloeted إتورة الأمير начал تقصي. ط anderевой الوقفي. بناء الهي послед مشارhov السماع تت eyebrows لكاش hattenه إمورون tablets هو شيء مجدد لامر هذه هو الأشياء ماذا ،iezع مجدداً على إن فرق هم يتحقّون استطيع هذا المرناف أستطيع,1.0
+88e9f727c252881a789b8b31d5e6060f17bfd24f8a28d9a38fe84726edb9b2be,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\Call_020.m4a,"Agent: السلام عليكم، كيف يمكنني مساعدتك؟
+Customer: وعليكم السلام، أرغب في إلغاء اشتراك الإنترنت المنزلي.
+Agent: هل يمكنني معرفة سبب الإلغاء؟
+Customer: سأنتقل إلى مدينة أخرى الشهر القادم.
+Agent: يمكننا نقل الخدمة إلى عنوانك الجديد بدلًا من الإلغاء.
+Customer: لا، سأسكن مع عائلتي وعندهم اشتراك.
+Agent: مفهوم، متى ترغب في إيقاف الخدمة؟
+Customer: في نهاية الشهر الحالي.
+Agent: تم جدولة الإلغاء، وسيأتي مندوب لاستلام الراوتر.
+Customer: هل هناك رسوم إلغاء؟
+Agent: لا، لأن عقدك انتهى.
+Customer: ممتاز، شكرًا لك.",السلام عليكم كيف يمكنني مساعدتك وليكم السلام أرغب في الغاء ليشتراك الإنترنت المنزلين هل يمكنني معرفت سابل الغاء؟ سن تقلي لامدين أخر الشهر القادن يمكنني أن نقر أن خدمة إلى منوانك التديد بدلا من الألقاء لا سأسكون معها التي وعندهم يشتراك مفهم مما تتغطي القافة الخدمة؟ في نهاية الشهر الحالي تم تدول الغاء وسيأتي من دولي استلام الروتد هل يمكنني أن نقرر سوم الغاء؟ لا لأن نقر أن تكون تهم ممتاز شكراً,0.6582278481012658
+1772e0d1a10559cd0e7065ffb9da94f629edc183264fd5aa7f4095d213cbd28e,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_021.m4a,"Agent: اهلا معاك خدمة العملاء كيف اقدراساعدك؟
+Customer: ابغى الغي باقة الإنترنت الإضافية في جوالي.
+Agent: الباقة الإضافية بسعة عشرين جيجابايت؟
+Customer: ايوا ماسرت ابغاها.
+Agent: هل تفضل خفضها إلى باقة أصغر بدلًا من الإلغاء؟
+Customer: لا، باقتي الأساسية تكفيني.
+Agent: تمام، حيسير الإلغاء فورًا أم مع نهاية المده؟
+Customer: مع نهاية المده، لأنني دفعت هذا الشهر.
+Agent: ايوا، وراح  تبقالك الباقة فعالة حتى نهاية الشهر.
+Customer: هل سيصلني تأكيد انها اتلغت ؟
+Agent: ان شاءالله راح توصلك رسالة نصية خلال دقائق.
+Customer: تمام يعطيكي العافيه.",أهلا معك خدمت العمل كفاكدرساديك أبغائد غيباتت الانترنت الاضافي وفجوالي الاضافي اللي سعتها 20 جويت ايو ما ما سيطأ بقى طب هل تفضلين أن نخفظ هلك إلى بقى أصغر بدل ما تلغي؟ لا بقى لأسنسيت كفايني تمام أرحسير إلغاء معني هاتها المده معني هاتها المده لندفعت هذا الشهل ايو ورحتفقلك الو بقى فعالي حتى الهاتف الشهل حيث لنتأكيد أن نفلغت انشاء الله رحتفص القرسال لنصيخ لندجعك تمام يتكلاف,0.8705882352941177
+b253a98bc09b692f06c92fdc1ca981828643334db454d24d86154e38672f0c5b,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_022.m4a,"Agent: السلام عليكم، معك خدمة العملاء كيف اقدر اخدمك؟.
+Customer: وعليكم السلام، طلبت إلغاء اشتراكي مرتين، وما لسا قاعده أدفع.
+Agent: نعتذر منكم، متى قدمت طلب الإلغاء؟
+Customer: قبل شهرين، ثم مرة ثانيه الشهر الماضي.
+Agent: أشوف الطلب الأول مسجلًا، لكن مااتنفذ.
+Customer:  الصراحه هذا غير مقبول إطلاقًا، دفعت شهرين دون أي خدمة.
+Agent: أتفهم غضبك، وهذا خطأ من جهتنا. حقك علينا لكن زي ماقلتلك الطلب فيprossing
+Customer: أنا ابغا الغي إ الاشتراك اليوم واسترجاع كل المبالغ.
+Agent: سأنفذ الإلغاء الآن، وأصعّد طلب الاسترجاع للمشرف.
+Customer: إذا ماصار هذا الشي راح اشكيكم شكوى رسمية.
+Agent: تم الإلغاء، وسيتواصل معك المشرف خلال أربع وعشرين ساعة.
+Customer: أنتظر الاتصال.",سلام عليكم معكم خدمت العملاء كيف جدا باخدامك وعليكم السلام طلبت الغاش ترك مرة تاني ومس لسجاد أدفع نحت دم منكم متجد انت تطلب الوغير جبش حرين ومرتحان نشهر الماضي شوف الطلب الأول مسجل لكن ما تنسون صراح هذا مرة غير مكول دفع شحرين دون أي خدمة أدفعها مغضبك وهوها بخطر من جهاتنا حاجة علينا لكن زي ما بطلك أو لسط الطلب في البروسي سنجر أنا أبغائل الغاشتراك اليوم وأبغا استجع كل المبالغ حلقة الغالاء وفعط طلب الاستبجال المشوف وإذا ما صال هذا الشيء رح أشكيكم شك ورسمي تبما الغاب سيتواصل معك المشوف خلال أبغا شمي سان شاء الله أنا تبغلت الصال,0.7850467289719626
+f015ebee1e8bb6d24602e3cff80bcc887d9192fcbba21404af80fdf2f0a4fe99,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_023.m4a,"Agent: أهلًا وسهلًا، كيف أخدمك؟
+Customer: حابه إلغي اشتراك الإنترنت حقي  المنزلي.
+Agent: هل في مشكله؟
+Customer: لا، بس السعر أصبح مبالغ فيه شويا.
+Agent: طيب احنا عندنا عرض للعملاء الحاليين بخصم ثلاثين بالمئة لمدة ستة أشهر.
+Customer: بس سته شهورو بعد السته شهور؟
+Agent: يرجع السعر الأصلي، وتقدرين تلغينها بدون رسوم.
+Customer: انا اهم شي عندي  السرعة حتقعد نفس الشي ولا حتتغير؟
+Agent: ايوا، بدون أي تغيير.
+Customer: طيب، حأجرب العرض بدلًا من الغي.
+Agent:  تمام تم تفعيل العرض من الفاتورة القادمة.
+Customer: تمام  شكرًا لك الله يعطيكي العافيه.",أهلا وسهلا كيفك داخد مك؟ حضل غير شباك اللي نتحكي هل في مشكلة؟ لا، بس السر بصارص يعني السرح مبالغ في شوية طيّة، بحنا تنعاطل العملاء الحاليين بخصم 30 بالميلي لم تتستشفور بس تشفور؟ قبو بردى إرجع على السرح الأصلي وتدرينت الغينها بدون جرسونة أنا همشي عندي السرح؟ هل السرح تبقى نفس الشيء؟ والحظ غير؟ أيه، بدون اي تغير طيّة، حاجة بيبي العطاجة لأهداً ما نيغير هل أنصولا قёاً آ婷؟ لست من the photography,0.8333333333333334
+74b8e2fc8b24dd6451a728f2f65d66a5ec3131893b14a6b881aeac66146a3cb2,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_024.m4a,"Agent: يااهلا وسهلا، معك خدمة العملاء كيف اقدر اخدمك؟.
+Customer: هلا، أبي ألغي اشتراك الفاتوره وأحولها لمسبق الدفع.
+Agent: أبشير، ليش ودك تحول إذا ممكن أعرف السبب؟
+Customer: أبي أتحكم بمصروفي، الفاتورة كل شهر تزيد.
+Agent: فاهمتك، بس تبيين تحافظين على نفس الرقم؟
+Customer: إيه أكيد، نفس الرقم.
+Agent: تمام، لازم تسدد الفاتورة الأخيرة أول شي.
+Customer: كم الفاتورة لوسمحتي؟
+Agent: مئة وعشرين ريال.
+Customer: طيب بسددها اليوم.
+Agent:  تمام بعد السداد التحويل ياخذ ساعات بس ان شاء الله .
+Customer: تمام، يعطيكي العافيه.",يا أهل المثالة ما أخذ مثل العملات كيف كدبا خدمت؟ هل أبغا ألغي اشترك الفاتورة وحوالها لمصبقى الداخل؟ أبشريه بس لشو تكتحوليني لما ممكن عفى صبب؟ أبتحكتهم في مصروف الفاتورة كل شارتيزيكت أفهمتك بس تبغا تحضين على الفتورة؟ أكيدي وابغا نفسر ربهم تمام بس لازم تدري الفاتورة بلأخي باللعلي كبول كامل الفاتورة يدى سمحتين؟ أمي وشير؟ بس تدري اليوم تم بات السداد اتحول خيار خلصات جدا تمام يتكلاع فيه,0.8554216867469879
+23a02f4d7f7a9d711c81a605c0417beff4220dafc49f05bb46f55af0c77cafa0,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_025.m4a,"Agent: السلام عليكم معاك خدمو العملاء ، اتفضلي.
+Customer: وعليكم السلام،  لو سمحتي أبي ألغي اشتراكي الان.
+Agent: أكيد، بس ممكن أعرف السبب؟
+Customer: الخدمة  مرا سيئة، النت يقطع، وكل ما أكلمكم نفس الكلام.
+Agent: سامحينا، نقدر نرسل لك فني يشيك.
+Customer: لا، جاني فني مرتين وما تغير ولاشي لو سمحتي الغيلي الان.
+Agent: طيب نقدر نعطيك شهر مجاني تعويض.
+Customer: ما أبي شي، أبي ألغي وبس، .
+Agent: عقدك باقي له ثلاث شهور، فيه رسوم إنهاء.
+Customer: أنا ما راح أدفع ريال، المشكلة منكم !
+Agent:  انا برفع طلبك للمشرف عشان يعفيك من الرسوم. ان شاءالله تكوني راضيه علينا 
+Customer: طيب لوسمحتي، وأبي رد اليوم يوصلني.",سامعيكم ما كيف تلعاملات فضليك؟ وعليكم السلام لوسمحتي أو غير الشتراكي الآن أكيد بس ممكن أعرف السبب؟ الخدم ممرة سيئة والنتي قطع كل ما أكل لمكم نفسر كلام سامحينا نكد برسل لك الآن في نيشيك لا أجاني في النمرة تنمات غير ورشيه وسمحتي الغير الآن طيب نكد لنا تكشهر من جاني تعويض طيب ما بس لعسماءكم مع برود شيك لوسمحتي أقغل غير و بس أعبتك بجل ثلاث شهور ففي رسوم بنهاق أنا مارحة تفع ولا ريال نشكل من نكم أنا برفع طلبك للمشرف فعشان نايا فيك من رسوم ونشانت كونينا بعلينا طيب لوسمحتي وأقغل راتي اليوم وصنع,0.7596153846153846
+8525acac7982b87e1ab0b5b24de7eeb382a6e92a0daee719c358f9f577019888,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\Call_026.m4a,"Agent: يا هلا، كيف أخدمك؟
+Customer: اهلين، أ انا فكر ألغي عقد الجوال، بس أبي أعرف كم الرسوم.
+Agent: أبشري بس دقيقه ظاهر ، عقدك باقي له أربع شهور.
+Customer: يعني كم بيطلع علي؟
+Agent:  شوفي رسوم الإنهاء المبكر قيمة شهرين من الباقة.
+Customer: أوه، كثير والله .
+Agent: وإذا صبرت للنهاية ما عليك شي انا اقترح عليكي دا الخيار.
+Customer: طيب أقدر أنزل لباقة أرخص بدال مالغي؟
+Agent: yes، تقدر تنزل باقة وحدة بدون رسوم.
+Customer: تمام ، بفكر وأرجع لكم ان شاءالله .
+Agent: على راحتك، وأرسل لك الباقات برسالة.
+Customer: تمام، مشكور.",يا هلك كيف كتير اخذين كديو؟ اهل ان افكر الله عكد ان دول بس ابيع الف كامير رسوم ابشري طبب بس دقيقة ضاهر عندي انه عكد بقيله 4 شهور يعني كم بطلع لي تقريبا؟ شو فيرسومة انها المبكر جيمت شهر من الباقة اه كثير والله اعشان كذا اذا صبيرت انها يمحي كون عليك شيئا ان اختل عليك هذا الخيار طيب اقدر ان از الباقة ارخص بد الماء الغي يسيس تقدريت انز الباقة واحدة ابدو ان ارسوم تمام اغافة كله ارجع لكم شهر الله اعنى راحتك وأخصلك الباقة الباقي بالرسايف تمام شكرا,0.8351648351648352
+5549b0ce142d433c61b9d060434022ed88e64d8cc0844dc60641a6ad4d19b3bd,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_027.m4a,"Agent: اهلا معاك خدمة العملاء اتفضلي ، .
+Customer: هلا، عندي اشتراك تطبيق أفلام مربوط على فاتورتي، أبغي ألغيه.
+Agent: أبشر، الاشتراك الشهري؟
+Customer: إيه، ما صرت أستخدمه.
+Agent: تبي تلغيه الحين ولا آخر الشهر؟
+Customer: لا اخر الشهر، عشان أخلص المسلسل.
+Agent: تمام، جدولت الإلغاء آخر يوم بالمده
+Customer: ومحاا ينخصم الشهر الجاي؟
+Agent: لا، ما بينخصم.
+Customer: تمام، وإذا بغيت أرجع له؟
+Agent: تقدر تفعله من التطبيق بأي وقت.
+Customer: تمام، الله يعطيك العافية.",أهلاً ما كخدنات العملات فضالي هل عنديش تركتت بيق أفلام مربوت على فاتورة و أبادقي؟ أبشرين لاشترك شهري؟ أي مصر تستخدمه تبتل غير حين ولا آخر الشهر؟ لا آخر الشهر تمام جدود لك الغاء على آخر يوم مع بالمدام ما حين خصم من نشهر الجال؟ لا مع رحي خصم تمام واذا بغط أرجاله؟ تقدر تفعلي ما تتسبيق بأي وقت تمام يتكلم العافية؟ مع عافية,0.7837837837837838
+5c4bfe496f8215543567eed2589eb3afdd042779a4befddfea60808fa4482c00,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_028.m4a,"Agent: هلا، معك خدمة العملاء.
+Customer: هلا، أبي أسوي cancel للـcontract حقي.
+Agent: أكيد، بس فيه early termination fee.
+Customer: كم الـfee؟
+Agent: ثلاث مية ريال تقريبًا.
+Customer: ؟ أنا ما أحد قال لي عن هذا لما سجلت.
+Agent: موجود في الـterms and conditions.
+Customer: محد قرأ لي الـterms، الموظف قال أقدر ألغي any time.
+Agent: فاهمتك، بس الـsystem يطلب الرسوم.
+Customer: I want to speak to a manager، هذا مو عدل.
+Agent: بسوي escalation لطلبك وبيكلمك الـsupervisor اليوم.
+Customer: Okay، وأبي الـcase number.",أهلا ما كنت رمتر عملاكي فقد راختمك هل أبسبك كنسل كنت راكت حكي أكيد بس في أرلي ترمنيشين في كنفي ثميت ريال تقريبا أنا حد ما حد جلي عن هذا المنسلجات هوم وجود في الترمس and كنتشنس ما حد قرأ لترمس الموضوع المضفقات قال أقدر ألغي anytime فهما خقك ولا ترمس مجدده أريك لنChrسentin كنت رأيت ممنélاك أهلا أبس ahead و أزليك م定ية ذلك و هي هذا ما مكان الحكي أتمنى أنك جيز destroys the infertile,0.8433734939759037
+6beeac56bb483851b5fa339692705cdca80c14f17f972fe8a966282faffa162e,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_029.m4a,"ئAgent: أهلًين معاك خدمة العملاء ، كيف اقدر  أساعدك؟
+Customer: هلا، أبي أوقف الـauto-renew لباقة الـdata.
+Agent: أبشري، الباقة الشهرية؟
+Customer: إيه، أبي أجددها manually لما أحتاجها.
+Agent: تمام، تبي الباقة الحالية تكمل لين الـexpiry date؟
+Customer: إيه، خلها تكمل.
+Agent: ،  تمام خليك معي ثواني                                          الـauto-Customer: بتوصلني notification قبل ما تخلص؟
+Agent: إيه، بيوصلك SMS قبلها بيومين.
+Customer: وأقدر أجددها من الـapp؟
+Agent: أكيد، من صفحة الباقات. تمام وقفت الauto_renew
+Customer: Great، شكرًا.",هل أنت معك أخد منت العملك هيفك دعس أعدك؟ هل أبقى قبل أرينيو لبقى تداطم؟ أبشري البقى الشحرية؟ أيها أبقى غاجدت لها من وليل من أحتاجها؟ تمام تبقى البقى الحالية كم للنقى الإكسبائي لنيت؟ أي خليات كمبيل؟ تمام خليك معي ثواني عشان أو قبلك الأرينيو هل بتوصني فيكيشن جبل المطخلص؟ أيها تصليك كل اسم أسجب لها بيومين وأجد رجد هم للأب؟ أكيد من صفحة البقات وكيف لكي الأرينيو تمام تكلاع فيه,0.88
+8565a5c354932296e9b2fd1f558c1b043ff656c5f6eb986017d1c3a661d76bb4,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_030.m4a,"Agent: السلام عليكم، معك خدمة العملاء.
+Customer: وعليكم السلام، أابغا اقدم شكوى على موظف تكلمت معه أمس.
+Agent: أعتذرلك عما حدث، بس ايش الي صار؟
+Customer: كان أسلوبه غير لائق، وأنهى المكالمة قبل لا أكمل كلامي.
+Agent: هذا غير مقبول، وأعتذر نيابة عن الشركة.
+Customer: لم تكن المرة الأولى، حدث معايا.
+Agent: هل تتذكر وقت المكالمة تقريبًا؟
+Customer: نحو الساعة الرابعة .
+Agent: سأرفع شكوى رسمية للمشرف لمراجعة التسجيل.
+Customer:  تمام بس ابغا اعرف ايش ما  الذي سيتخذه.
+Agent:  راحسيتواصل معك المشرف شخصيًا خلال يومين وراح يبلغك.
+Customer: حسنًا، أنتظر الاتصال.",سلام عليكم ومعكبت لكم لكم ومعكبت لسعالك ومعكبت لكم السلام أبعا جدا مشك وعلم وضفت كلامت مع أمس أعتدلك بس أشياء اللي صار كان صوب غير لا أقوى أنه المقالة مجبلا كم الكلاوي ها طبعا غير مقبول وعتدلكنيابة عن الشعركة دي المول مرة الأولة جدا حذيت مع عايب هل تذكر وقت المقالة متقريبا المتقريبا؟ تقريبا عن السعال أربع أبعا فعليك شك ورسمي المشرف للمراجع التسجين شعرهم تمام بس أبعا عرف إشياء اللي يجرع اللي حدت تخدوه أمراح توصل معك المشرف شخصين خلالي ومن رحي باللغك تمام أنا حنتظر هذا للتفع للتفع تمام,0.9111111111111111
+58ebcbf936f066ae0932df9b3b635cfa02661f26966f89c4556642826d5faee7,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_031.m4a,"Agent: اهلا معاكي خدمة العملاء، كيف اقدر اساعدكم ؟
+Customer: أهلًا، أنا بس عندي ملاحظه على مدة الانتظار.
+Agent: تفضلي، نرحب بملاحظاتك.
+Customer: انتظرت أكثر من عشرين دقيقة حتى رد علي أحد.
+Agent: أعتذر عن ذلك،  دي الايام نواجه ضغطً كبيرً
+Customer: أتفهم، لكن ممكن إضافة خيار معاودة الاتصال عشان يتصل فيني الموظف اذا ماكان في اجد متوفر .
+Agent: فكرة جيدة، سأرفعها للإدارة ان شاء الله وناخذها بعين الاغتبار .
+Customer: شكرًا، ولكنن أردت أيضًا التأكد من موعد فاتورتي.
+Agent:  تمام اعطيني دقيقه اتاكد فاتورتك تصدر في الأول من كل شهر.
+Customer: ممتاز، هذا كل الي عندي.
+Agent: شكرًا لصبرك، ونعتذر مرة أخرى.
+Customer: مو مشكله",أهلاً ما أخذ مثل عملك فقط رساعدكم أهلاً أنا بس عندي ملاحة على مددت الإنتظار أتفضل أن رحب ملاحظاتك أنت ضد أكثر من نشري دقيق عبس عشان ذادة علي أحد أعتذر عن ذلك للأيام نواجه تغط كبير أتفهم لكن ممكن ضغيف خيار معادة للتسالعشان يتصفين الموضف إذا ما كان في أحد متوفر فكرة جيدة حرف أحال الإدار أن شاء الله أن أخذب عن الاتبار أتفضل أن أكثر من المعادة فتورتي أتفضل أن أكثر فتورتي تصدر في الأول من كل شهر هذا كل يندي مدد أتفضل أن أتفضل أن أتفضل أن أخير مرة,0.6730769230769231
+462a4afb8e84c8eae79ae4d297120764de7a9f1f857a560c11587f64e6964cf8,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\Call_032.m4a,"Agent: السلام عليكم، تفضلي كيف اقدر اساعدك؟
+Customer: وعليكم السلام،  انا زرت فرعكم الأسبوع الماضي، وأعطوني معلومات خاطئة.
+Agent: أعتذر منك ، بس ايش المعلومات التي تقصديها؟
+Customer: قوليلي  أن الجهاز سيكون بالتقسيط دون فوائد، ثم وجدت رساله  رسومًا إضافية.
+Agent:  تمام اعطيني دقيقه أراجع العقد 
+Customer: انا عندي الإيصال، وكتبوا عليه دون رسوم.
+Agent: أنا شايفه هناك رسوم خدمة شهرية في النظام.
+Customer:  طيب هذا تضليل، وانا ماراح  ادفعها لانكم ماقلتوليلي بالبدايه.
+Agent:  تمام انا حأرفع الشكوى لإدارة الفروع مع صورة الإيصال.
+Customer: تمام بس  إذا ماانلغت الرسوم سأرفع الأمر لحماية المستهلك.
+Agent: تمام، حيتم الرد عليك خلال ثلاثة أيام عمل.
+Customer: انتظركم.",أكم أتخضville cent iqي بكentionل wirklich أتخضville ay tุ osób erleيги الساة علي to the أ vrijsided طيب ان شايف ان هناك في رسوم خدم شهري في النظام طيب هذا تظليل وانا مرحة فعال ان انت ما قلتولي في البداية تمام ان حرفه لبشكوال دارت الفروع بس ممكن تسريس ورت الإيصال تمام بس اذا ما لغة رسوم برفع الأمر لحمات المستحلك تمام احياتي مرد عليك خلال ثلاثة أيام عمل انتظركم,0.8446601941747572
+ef34bb04358fe2d5f5f840921ff5d588f99bbcd6a73a38c93f5e6830677aa249,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_033.m4a,"Agent: أهلًا معاك خدمة العملاء كيف اقدر اخدمك؟
+Customer: لو سمحتي انا بتوصلني رسائل تسويقية كل يوم وهيا مرا بتزعجني .
+Agent: أعتذر عن الإزعاج، هل هي رسائل من شركتنا؟
+Customer: yes، عروض وباقات واشياء زي كدا بشكل متكرر.
+Agent: الحين اقدر اوفقلك الرسائل التسويقية فورًا.
+Customer: شكرا يعطيكي العافيه بس ابغا  توصلني رسائل الفواتير.
+Agent: اكيد، بوقفلك الرسائل التسويقية فقط.
+Customer: كم يحتاج  وقت حتى تتوقف تماما ؟
+Agent: ممكن توصلك رسالة أو اثنتان خلال أربع وعشرين ساعة ثم تتوقف.
+Customer: ممتاز
+Agent: تمام  تم الإيقاف، هل في شي تاني ؟
+Customer: لا، شكرًا لك.",أهلاً مع كربما ترملا كيف في الدراخ دمك؟ لسماحة يعني بتصنع رسال تسوقية كلام وهي مرة بتزاجني أحتد مع المزاج حليه رسائع نشركة نه يس روض و باقات وشياء زيكيدة بشكل متكرر أحينك در وكيف لك رسال تسوقية فورة شكرا يا تكلاحي بس أبوها تصنع رسال الفواتير أكيد أبو كيف لك رسال تسوقية فقط تنحي أحتاج وكتسن الدوقف أمك تصنع رسالة وثنين في الربعش نسع ورحت تتوقف ممتاز أهلاً تنمي القف هل في شيء الآن لا لأشكرا,0.8494623655913979
+7cdd21ffb0150575f6c1c32336f39192bf7d02f56f27e0493e031688feeaaa0b,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_034.m4a,"Agent: السلام عليكم، معاكي خدمة العملاء  كيف أقدر أخدمكم؟
+Customer: وعليكم السلام،  لو سمحتي أبي أقدم شكوى، ثلاث مواعيد والفني ما جا الين دحين !
+Agent: سامحينا، خلني أشوف الطلب دقيقه بس خليكي معايا.
+Customer: كل مرة  ترا بآخذ إجازة من دوامي وأنتظر على الفاضي.
+Agent: صحيح،  ظاهرلي  ثلاث مواعيد ملغية.
+Customer: ولا مرة أحد اتصل يعني مو حاله هادي  ي
+Agent: هذا تقصير منا، وأعتذر لك.
+Customer: الاعتذار ما يكفي، أبي أكلم المسؤول حالا .
+Agent: بحول الشكوى للمشرف مباشرة  وبخليه يتعامل مع المشكله بأولوية عالية.
+Customer: وأبغا تعويض كمان على الي سار تعويض على اللي صار.
+Agent: أبشر، المشرف بيكلمك اليوم ويناقش التعويض.
+Customer: طيب، بانتظاره.",السلام عليكم معك ويخد منتلع منك ويقدر اختمكم ويكون السلام لسماحت يبغد لمشكوة تلات مواعد و الفاني ما جاي لنده سامحين نشوف الطالب دقيق بسخلك معايا كل مرة تربع خدجاز من دوامه ونتظر على الفاضي صحيح ضاهر لنوطيقات مواعد من غير ولم راح لتصالب يعني مهاله هذه هذا تكسر من نوع اتدرلك ال اتدر ما يكفي يا بقل من مصول حالا ابشرين بحول الشكوة المشوف ومباشره و بخريت عام المشكلة بقلوية عالم أبغط عوات قمان هذه اللصار ابشرين المشوف بكل مكليوم ويتنوقش عن التعويت طيب بانتظاره,0.8301886792452831
+80e821afe748ba2c80e8f20cd9dfb931a55b431b15b5060bed4f0b1c140035a7,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_035.m4a,"Agent: اهلا وسهلا ، معك خدمة العملاء كيف اقدر اخدمك؟.
+Customer: اهلين،  لوسمحتي انا امس رحت الفرع عشان أغير الشريحة، والموظف ما ساعدني.
+Agent: كيف ما ساعدكي؟
+Customer: قال النظام واقف وارجع بكرة، وكان فيه موظفين ثانين فاضيين.
+Agent: سامحينا، بسجل ملاحظتك على الفرع هذا تفتكري اسمو؟.
+Customer: الصراحه انا  ما أبي أحد يتضرر، هل في ضرر لو انا قلتلك؟.
+Agent: لا مافي ضرر ان شاءالله لكن مستقبلا تجنبا لي الاضرار الي زي كدا ، وتقدر الحين تطلب الحين تطلبي شريحه هل كنتي بتطلبي شريحه؟.
+Customer: ايوا.
+Agent: تمام نقدر نوصلك اياها، .
+Customer: منجد في خدمة توصصيل، .
+Agent: ايوا توصلك بدون رسوم كاعتذار .
+Customer:حلو خلال كم يوم.",أهلا نسالب معك خدمة العملة كيف أقد بخدمك؟ أهلاً بالصمحت أنا رحت أمس الفارة عشان غير شريحة والمضف مصاعدة كيف مصاعدة كيف؟ قال النظام واجفة مدريعاش أرجعي بكرة كان في المضفين تانيين فاضي سامحينة بسجل ملاحباتك على الفرة هذا فتكس مو؟ صراحة أنا مضف حدها إيضرة هل فيضرة لو أنا بتلني؟ لا مفيد ررشا ولكن نستقبل أن تجنب الأخطاء لذكرة طيب تكد بالحينة تتربين الشريحة هل أنت كنت تتبطط بشريحة؟ إيه تمام نكد بنو الصلك ياها تقصيح نجيت في تخدم التوصيح؟ إيه توصلك وبدون بسومك ياها حلو طيب خلال تميان خلال يوماني شاك<|ar|>,0.8301886792452831
+116dc617b310ff2076dab45233a4d5fe809c41b7dadd22a511138d9b4e04fd52,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\Cal_036.m4a,"Agent: السلام عليكم، تفضلي  كيف اقدر اخدمك .
+Customer: وعليكم السلام، لو سمحت  مباشره حولني على مشرف ماابي اتكلم مع اي احد.
+Agent: طيب كيف  أقدر أساعدك، ايش المشكله؟
+Customer:  صار لي شهر أكلمكم على رقم انسرق مني وأبي أوقفه وأطلع بدل فاقد ومحد يرد.
+Agent:   صراحه انا قاعد يظهر عندي الطلب مفتوح من شهر.
+Customer:  شوفي كل مرة يقولون انتظري، والرقم للحين ما رجع لي.
+Agent: أتفهم غضبك وفعلا عذر مالو مبرر.
+Customer: أنا كلمتكم أكثر من خمس مرات، تعبت!
+Agent:  الان بحولك للمشرف وحرسلو  كل تفاصيل .
+Customer: طيب شوفي  وإذا ما انحلت اليوم برفع على الهيئة.
+Agent: تمام اتفهم غضبك عزيزتي  لحظة الان  أحولك.
+Customer: تمام استناكم",السلام عليكم ومتفضل كيف اكد رخدمك وعليكم السلام يوسمحتي بباشرة حولين على المشوف ما بيتك لما يتم اه فبكيف اكد رساعدك كيف كيف اكد رساعدك صار لي شهارك كلهمكم على بغم انسف اجميني وابغا واضغفو اطلع بدي الفاقيد بس محد جالي بدت صراح أنا جادة يدت جادة يدتها رعاً دي أن قلب مفتوح من شهر شوفي كل ما بيقولون ان تظبي والفغم لحي مرجال يتفاهم ضد طبيك وفالاً عزر ما لمبرد اه أنا كلمتكم كثير من خمس مغاطة بلك تعتك طيب أن حاولك على المشرف وحارسي لكل التفاق طيب شوفي إذا ما حلت المشكري اليوم تبوف عن هي تماعه اتفاهم ضد طبيك عزيزتي لحظة أن حاولك تماعه استنككم,0.8333333333333334
+ceab0339d3e26097ebe1b22d7cb769d82f330af27f61c16eb2f75bd4c01e879f,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\Call_037.m4a,"Agent: يا اهل وسهلاا، كيف اقدر أخدمك؟
+Customer: لو سمحتي انا ، طلبت شريحة توصيل قبل أسبوع والين دحين  ما وصلت.
+Agent: المعذره منك اختي، عندك رقم الطلب اشيكلك عليه؟
+Customer: إيوا عندي ، بس ما أبي أقوله، تقدر تشوفه من رقمي؟
+Agent: أطيب دقايق اشوف لقيتو ... الشحنة متأخرة عند شركة التوصيل.
+Customer: طيب كان المفروض أحد يتواصل معايا  يبلغني.
+Agent: معك حق،  بنحاول بنحسن هالشي ان شاءالله مستقبلا .
+Customer:  طيب متى بتوصلني؟
+Agent: الشركه ظهرتلي انو  بكرة إن شاء الله، وبيتصل عليك المندوب.
+Customer:طيب تمام ، بس لا تتأخر أكثر.
+Agent: أبشري، حطيت ملاحظتك أولوية.",يا أهل المسهل كيف أكد باخده بك؟ أهل المسهل أهل المسهل سعريها التصليل بالسبوع ويلا انده ماذا تحدي؟ ماذا تحدي؟ عنتك للمطاق؟ شكرا سلاة؟ اي وعندي بسماع بقى بقى وتبدأت بسيء مرد مي تتزيد دقائجة شوث اللي جيتو الشهر نمس أخبع عن شركة التصليل المسهل وكالة المقروضة هي التواصل معي أو باللقم صح مكحة شكرا سيكون شاء الله مستقبل طيب مي تحطة أصرني الشركة ضحرك لي مكتوب لنتمارو ان شاء الله بيتصرع لك من دو طيب تمام بلسكاتت أخركتت بشريك بشريك حطات ملاحبة كأولوية,0.9042553191489362
+d209a84f6dc8f6d1cad69dd6a7a372a3a9815e139d7662d1bd878f931161c86b,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\Call_038.m4a,"Agent: اهلا وسهلا معاك خدمة العملاء  كيف اقدر اخدمك؟.
+Customer: هلا، بصراحة الـservice عندكم really bad.
+Agent: سامحنيا، ايش الي حصل معك؟
+Customer: من أسبوعين وأنا أفتح tickets، ولا أحد يرد عليا.
+Agent: أشوف عندك ثلاث tickets مفتوحة.
+Customer: وكل مرة أكلم أحد يقول I'll follow up، وما أحد يتابع.
+Agent: فاهمتك فاهمتك والله ، وهذا مو المفروض حقيقي ما يصير ولكن اعذريني.
+Customer: I need a supervisor now، وإذا ما انحل الموضوع  بنزل الموضوع على Twitter.
+Agent:  اووه بسوي escalation لكل الـtickets مع بعض الحين.
+Customer: وأبي أحد يكلمني اليوم ، مو بكرة.
+Agent: الـsupervisor بيتصل عليك خلال ساعة.
+Customer: Okay i wil see.","السلام عليكم أهلاً مسهلة بما أخذ مثل العملك هل تفقد بخدمة؟ هل بصراحة السافة زندككم رلي بعد؟ أسامحينة واشل لخفر مايز من اسبوعين من أفتحتكت سلاحدي رد عليها أشوف عنديك ثلاثة كتس مفتوقة عبادة وكل مرة كل ما حدي جول أيضا أيضا فلوعة ومحديت عبادة شوف فهمت كيفهمت كيفهمت كيفهمت كيفهمت وهذا مفضح حديدة بسيب ولكن عدرينة أينيدي أسفر فعيزر نعو فعيز إذا ما نحل الموضوع بنزل الموضوع على تويتر هوه بسوية سكليشن كل التكتس مع بعض أله وأباحا دي كل مليم مو بكرة أسوبي بوعزر نشاء الله بيضي صلاة لك شلسة OK, أيبل سي",0.8461538461538461
+bada1eb1c47675613d4d44e9643d6ffee3e9109380f5e5ddd718b432150f09b0,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\Call_039.m4a,"Agent: أهلًا، كيف أقدر أساعدك؟
+Customer: لوسمحتي انا ، عندي feedback على الـupdate الجديد في ـapp.
+Agent: تفضل، نسمعك.
+Customer: الـdesign صار confusing، ما ألقى صفحة الـbill بسهولة.
+Agent: فاهمك، الصفحة انتقلت للـmenu تحت.
+Customer: آوكي ، بس قبل كانت أوضح في الـhome page.
+Agent:  تمام بنرفع ملاحظتك لفريق الـapp.
+Customer:  تمام وكمان الـdark mode اختفى.
+Agent: بيرجع في الـnext update إن شاء الله.
+Customer: Good، تمام شكرا
+Agent: شكرًا على الـfeedback، ان شاء الله  يفيدنا كثير.
+Customer: You're welcome،","أهل أنك في الدرساعدك لسماحت أنني عندي في الباك على الأبداية الذين تفضلون سماعك الدزوين سراح صار مركم في وزين وماء البسماحة البلبي سماعودة فهم تففح أن تقل في المميوت أحد OK, فالسديد القرنة أوضع في الهوم تج تمام بنرفة ملاحباتك الفريق الأرض تمام حتى الدار كمودة تفاق برجة ان شاء الله في ال next ابدالك تمام شكرا شكرا على الفيدي باك إن شاء الله بفيد إن كثير OK, thanks you all, you're welcome",0.8607594936708861
+5db318ac744bd0e5dc160d22430c2a7a50a2edfe786416a95f16eefb879745cc,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\Call_040.m4a,"Agent: السلام عليكم، كيف اقدر اساعدك؟
+Customer: وعليكم السلام، أبغا استفسر  عن باقات التجوال.
+Agent: بكل سرور، على  أي دولة بتسافري؟
+Customer: على دولة أوروبية لمدة عشرة أيام.
+Agent:  حلو عندنا باقتين أسبوعية وباقة لمدة أسبوعين.
+Customer: ايش الفرق بينهم؟
+Agent: الأسبوعية بسعة خمسة جيجابايت، والثانية بسعة اثني عشر جيجابايت.
+Customer: هل تشمل المكالمات؟
+Agent: نعم، تشمل دقائق للمكالمات الواردة والصادرة.
+Customer:  تمام حأختار باقة الأسبوعين.
+Agent: يمكنك تفعيلها قبل السفر من التطبيق.
+Customer: تمام يعطيكي العافيه.",السلام عليكم كيف اقدر الساعدت؟ وعليكم السلام أبقى استفسر عن بقات التجوال بكل سرور على أي دول حتى سفر على دولة أوربي لمندد 10 ريون حلو عندنا بقاتن أسبوعية وفي بقاتكمان لمندد أسبوعين اشي الفرق بينهم؟ أسبوعية عندنا سعدت 5 دي دي بايت و الثانية سعدتها 12 دي دي بايت هل تشمل المكالمات؟ ايو تشمل اللي دقاء في المكالمات والدول الصادر حتى البقات الأسبوعية ترتيب للتعالي هجب للسفر من التفكي تمن يعتك العفو السلام,0.7142857142857143
+421d8bf8089da4dadc7402fc27ab91b9d54463ae4007867a0a18b24abca875b4,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_041.m4a,"Agent: السلام عليكم كيف اقدر اساعدك؟.
+Customer: وعليكم السلام، لوسمحتي ايش  مواعيد عمل فروع عندكم ؟
+Agent: من التاسعة صباحًا حتى العاشرة مساءً طوال أيام الأسبوع.
+Customer: حتى  يوم الجمعة؟
+Agent: ايوا، من الرابعة عصرًا حتى العاشرة مساءً.
+Customer:  طيب  أحتاج موعدًا مسبقً قبل لا اجي ؟
+Agent: لا، لكن يمكنك حجز موعد من التطبيق لتجنب الانتظار.
+Customer: nice good idai.
+Agent: هل تتبي معرفة أقرب فرع إليك؟
+Customer: لا شكرً يعطيكي العافيه ا، أعرف مكانه.
+Agent: تحتاجي شي اخر؟
+Customer: لا، شكرًا .",السلام عليكم كيف تدرساعدك و عليكم السلام و سمجد يشلام واحد عمل الفروق انتك من التاسيها صباحاً حتى العشر عمساء انتوال أيام الأسبوع حتى يوم الجماع أيو من الرابع عصر الحتى العشر عمساء احتاج مواعد مسبطة باللأجي لا تنديك تجيه و تحجز مواعد من الططبيق لتجنب الانتوال ناست جيدا تبتعرف أجرب فارع لكي لا لا شكرا نعتقد العفى عدس مقام تحجزوا يعوفى ناست جيدا,0.7901234567901234
+bd2e9bbcc0a567532c709b9d479c0ace3c3ee61d8e0e6b5bc9ebe6552fe0ce3d,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\Call_042.m4a,"Agent: أهلًا وسهلًا، كيف اقدر  أخدمك؟
+Customer:  لوسمحتي أبغا اعرف نقل ملكية رقم جوال إلى أحد أفراد عائلتي.
+Agent: يمكن ذلك عبر التطبيق أو في أي فرع.
+Customer:طيب ايش المطلوب؟
+Agent: أن يكون الحساب مسددًا، وأن يوافق الطرفان على ذلك.
+Customer:  طيب لازم نجي على  الفرع ولاعادي ؟
+Agent:  لا عبر التطبيق ل، يكفي أن يوافق الطرف الآخر من جواله.
+Customer: وهل هناك في حيكون  رسوم؟
+Agent: لا توجد رسوم لنقل الملكية.
+Customer: وكم يحتاج؟
+Agent: يتم خلال ساعات بعد الموافقة.
+Customer: ممتاز، شكرًا.",اهلاً سهلاً تفكدر اختيمك لسماحت بارك طريقة نجل المكاية ترك مجوول لأحدة برادة العالم المكاية نكذالك عبر التطبيق أو في أي فرر طب ايش المطروب أن يكون الحسام مستدف ونوافق الطرفة نعلى ذلك طيب لازم نجي على الفرر والعادي لا عبر التطبيق في أنه وافق الطرفة الآخر من جواله طب هل نقف فيه فيه فيه فيه فيه فيه فيه فيه سون؟ لا لا توجد رسوم لنقل المكاية طب كم احتالف اتمخلال سعات بعد المنحومة هذا الشكرا,0.7738095238095238
+c8bfd1a0717648df142c146b968066137e653d7586a990327044498a8b151c81,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\Call_043.m4a,"Agent: مرحبًا، كيف اقدر اساعدك؟
+Customer: أود أن أعرف إذا كانت شبكة الجيل الخامس متوفرة في حيي.
+Agent: بالتأكيد، عندك  اسم الحي؟
+Customer: حي النخيل.
+Agent: ممتاز، التغطية متوفرة في معظم الحي.
+Customer: هل أحتاج شريحة جديدة؟
+Agent: الشرائح الحديثة تدعمها، وإن كانت شريحتك قديمة يمكن استبدالها مجانًا.
+Customer: وهل يحتاج جوالي إلى دعم الجيل الخامس؟
+Agent: yes abslotlly يجب أن يكون الجهاز داعمًا للخدمة.
+Customer: سأتحقق من إعدادات جوالي.
+Agent: ويمكنك متابعة خريطة التغطية في موقعنا.
+Customer: شكرًا لك.",مرحبا في فلدل ساعدي او الدعن عالي في لكانت شبكة الجيل الخامس متواصف رفي حي بالتأكيد عندك اسم الحي حي مفي متاز ايو التطيع عندك متواصف رفي معظم الحي هل احترش ريحة جديدة شراح الحديثة تدعمها البركان تشريحة جديماني بترنستدل لكي مجانب هل احترش جوالي إلى دعم الجيل الخامس yes ابسلو تريح لازم يكون الجوالي دعم هذا تدعمه حي تمام حي تحقق مدده في الادادات تمام تنفتمام تبع خلطة التطيع بنوطعنا تمام شكرا حي,0.75
+d2d71ea730d6de0ac2be74c1ab97ac00cd2fd548f6e1607e8d7023fefa512fe1,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\Call_044.m4a,"Agent: هلا، معك خدمة العملاء.
+Customer: هلا لوسمحتي ، أبي أعرف وش عندكم باقات نت للبيت.
+Agent: أبشر، عندنا ثلاث سرعات.
+Customer: وش الفرق بينها؟
+Agent: الأول للاستخدام العادي، والثانية للعوائل، والثالثة للألعاب والبث.
+Customer: إحنا خمسة بالبيت، وايش تنصحني؟
+Agent: الثانية تكفيكم إن شاء الله.
+Customer: والتركيب كم ياخذ؟
+Agent: من يومين لثلاثة أيام بعد الطلب.
+Customer:  طيب فيه رسوم تركيب؟
+Agent: لا، التركيب مجاني هالفترة.
+Customer: زين، بفكر وأرجع لكم.",هل يمعك في المتلع ملعف؟ هل سمحتي أبو أعرف أشعنكم ضقات نتلق بات؟ أبشرة عن دنا ثلاثة سرعات أشعر فلقب عليهم؟ الأول استخدام عادي والساني اللي العوائل والسالس اللي اللي العبو البت؟ طيب أحن خمسة في البات أشتن صحيحييني أثاني تكفيكم إن شاء الله تكفيكم ياخد من يومين الى ثلاثة أيها بعد الطرب تكفير سنلت تكفي؟ لا تكفي بمجاني هل باترة؟ حلو أتفاق رور ذلك سمام أشيحي؟ لا نحن ستفاق,0.9154929577464789
+3649dfb19dffac04cf080448393afb2593612d055a4ce23cb83a67f2e117350a,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_045.m4a,"Agent: يا اهلا، تفضلي كيف اقدر اخدمك.
+Customer: هلا، أبي أشحن رصيد لأختي، كيف؟
+Agent: سهلة، من التطبيق تختار تحويل رصيد.
+Customer: وأكتب رقمها بس؟
+Agent: إيه، وتختار المبلغ الي تبي تشحنيه.
+Customer: فيه حد أقصى؟
+Agent: إيه، لين مية ريال باليوم.
+Customer: وبيوصلها على طول؟
+Agent: ، خلال ثواني وبيوصلها رسالة.
+Customer: وفيه رسوم تحويل؟
+Agent: لا، مجاني.
+Customer: تمام، مشكور.",يا هل تفضل كيف قد لخدامي؟ هل تفضل أختي فيف؟ سونا من التفضل تختاري تهويل رسيل أكتب رجما هبس؟ ايو تختاري من لغل تبغير شيس متجحني هل فيحد أقصة؟ ايو عاندك لان ميت ريال في اليوم وبيوصل حالة طول؟ خلال تماني تتصال لها الرسالة هل في رسم تحويل؟ لا لعمل جاني تم مستور,0.8852459016393442
+808f683c69b63de2fd3eb73490a573d36809569aa7b35a9ce6f32c43f9d97648,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_047.m4a,"Agent: اهلا، تفضلي كيف اقدر اساعدك؟.
+Customer: لوسمحتي، عندكم عروض للطلاب؟
+Agent: صحيح، عندنا باقة للطلاب بخصم.
+Customer: ايش فيها؟
+Agent: نت أكثر ومكالمات محلية، بسعر أقل من الباقة العادية.
+Customer: طيب ايش المطلوب عشان أشترك؟
+Agent: فقط  تثبت إنك طالب من خلال إيميل الجامعة.
+Customer: وكم مدة العرض؟
+Agent: طول ما أنت طالب، وتجددها كل سنة.
+Customer: طيب ممتاز، أقدر أحول عليها من باقتي الحالية؟
+Agent: إيه، من التطبيق مباشرة.
+Customer: حلو، مشكور.",أهل انتظلي كيف كدر السعليك نسمحتي عندكم رضي تلاب صحيح عندنا بقل الطلاب بخصن اشفيها نتأكثر ومكالمات محلية بسعر قل من البقل عديه طيب اشف مطلب عشرين فقط تفبت أنك طالب من خلال اماري الجامع كم ودت العر طوال من تطالب ودتدها كل سنة طيب من تاز أجد لحول عليهم البقل الحلية أكيد من الططبيق مباشرة حلو,0.7297297297297297
+b4b31f5fa323806dbe024bf19feb732688c96560eac9cfa7281e3aaf143435b0,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\Call-048.m4a,"Agent: أهلًا، كيف اقدر أساعدك؟
+Customer: هلا، أبي أعرف تفاصيل الـfamily plan.
+Agent: أبشر، الـplan يغطي لين خمس أرقام.
+Customer: والـdata مشتركة بين الكل؟
+Agent: إيه، فيه shared data، وكل رقم له minutes خاصة.
+Customer: وأقدر أحط limit لكل رقم؟
+Agent: إيه، من الـapp تقدر تحدد usage limit.
+Customer: Nice، وكم السعر؟
+Agent: يعتمد على حجم الـdata، أرسلت لك الـoptions برسالة.
+Customer: ولو أضفت رقم بعدين؟
+Agent: تقدر تضيف any time من الـapp.
+Customer: Great، thanks.",أهلا كيفك در أساعدك؟ هلا لو سماحته بعرفت قاصيل الفمين الكلام أبشري الفميني غطئ لام خمس أرقع وداته مشتركة بين الكل وفيها شرد داته كورغم له منتخاصة وأقدر حاطني متل يفرده؟ أيو من الأب وتيجدت حديد اليوذ بلمت طيب ونعيس كما سير؟ اعتمد على حجم الداته وارسطلت عبشين برسالم لموا جدا رأع إليس مخارد ما حある,0.8421052631578947
+a49cb5920984bd3736528642cf674abc892126db2f13a637b9de9645cce14f75,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\Call_049.m4a,"Agent: اهلين هلا، معك customer service.
+Customer: هلا، اشتريت smart watch وأبي أفعل عليها eSIM.
+Agent: طيب عندكر، الساعة تدعم الـcellular؟
+Customer: إيه، الـcellular version.
+Agent: اوكي، تحتاج تشترك في خدمة الـnumber sharing.
+Customer: يعني نفس رقمي؟
+Agent: إيوا نفس الرقم يشتغل على الجوال والساعة.
+Customer: وكم الـmonthly fee؟
+Agent: رسوم بسيطة تنضاف على الفاتورة.
+Customer: طيب كيف أفعلها؟
+Agent: من الـwatch app في جوالك، وبيطلب منك تسجيل دخول.
+Customer: تمام، بجربها الحين.",أهلاً معكي القست مرسل بس كيف تضرخ دلك هل أشترك سمارت واتش من أنتكم وبرفعل على هل أسمعيه؟ طيب، عنديت الساعة تدعم السلللة؟ هيو الفيديو برجن okay طيب تحتى لكيشترك في المتنبر شاريك يعني معلين نفس رجمي؟ هيوان نفس رجميش ترى على الجوال والساعة وكم من منثل فيه؟ رسوم بسيطة وكلضاف على فالتورة طب كيف فالها؟ من الواجع بجوالي قد يتلقم نفسي بخول سمان بجربة الحينية تكلاعك؟ اللي يعني,0.821917808219178
+efa8b9516e7a4fdb528ab44dc9eb078f1324d6a8d7c3df29f9ce7383f74f69f8,Team,C:\Users\user\Desktop\team_recording\team_recording\audio_file\call_050.m4a,"Customer: السلام عليكم، عندي استفسار بخصوص فاتورتي الاخيره لاحظت انو المبلغ اعلى من المعتاد مع اني ماغيرت باقتي ولا اشتركت في أي خدمه اضافيه.
+Agent: وعليكم السلام نعتذر عن الازعاج كم كان المعتاد وكم وصلت الفاتوره الحاليه 
+Customer: عاة ادفع ميه وخمسين ريال .لكن هالشهر وصلت الفاتوره الي متين وثلاثين ريال ابغا اعرف سبب الزياده؟
+Agent: ابشري دحين حراجع تفاصيل الفاتوره  واتاكد سبب الرسوم الاضافيه 
+Customer: تمام واذا كانت الرسوم  بالخطا أتمنى يتم تعديل الفاتوره  وارجاع المبلغ الزائد.
+Agent: اكيد ولايهمك حنرفعلك الطلب ونتواصل معاكي بالنتيجه.
+Customer: شكرا يعطيكي العافيه
+Agent: الله يعافيكي",السلام عليكم عن استفسار بخصوص فاتورة الأخيرة لحطة المبلغ أعلم المعتاد معني ما غير باقته والجتركة في أي خدم إضافية واليكم السلام نعتاد العنى الزعاج ممكن توضحي لكم من المبلغ المعتاد وكم مصدت الفاتورة الحالية عادة تنأتفعمية وخمسير ريال لكنها الشهر وستة الفاتورة المتانة التيين ريال وقب عرف إشتبه بالزيادة أبشرين دحن الرحارات وتفاصير الفاتورة وتأكد سبب رسم ريضافية تمام وإذا كانت الرسم بالخطقة أتمنى تنتعدي للفاتورة وإرجع المبلغ الزاعدة أكيد أكيد ولهمي عن الفعل كتلب ومتواصل معك بالنتيجة شكرا نعتك العافي,0.8064516129032258
